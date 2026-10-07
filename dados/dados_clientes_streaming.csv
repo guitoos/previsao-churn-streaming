@@ -1,0 +1,1001 @@
+ID_Cliente,Idade,Genero,Estado_Civil,Tempo_Como_Cliente_Meses,Tipo_Plano,Valor_Mensalidade,Forma_Pagamento,Horas_Uso_Mensal,Numero_Dispositivos,Numero_Chamados_Suporte,Atrasos_Pagamento_6Meses,Assistiu_Conteudo_Original,Recebeu_Desconto_Promocional,Cancelou
+CLI0001,34,Masculino,Solteiro,0,Premium,62.53,Cartao de Credito,13.8,4,2,0,Sim,Nao,Sim
+CLI0002,26,Masculino,Solteiro,7,Basico,24.26,Boleto,13.2,6,3,0,Nao,Nao,Sim
+CLI0003,18,Masculino,Casado,32,Basico,21.49,Boleto,0.0,3,1,2,Nao,Nao,Sim
+CLI0004,54,Masculino,Casado,5,Premium,59.14,Boleto,8.9,2,2,1,Sim,Nao,Nao
+CLI0005,18,Feminino,Casado,10,Basico,27.66,Debito Automatico,10.1,4,2,2,Nao,Nao,Nao
+CLI0006,29,Feminino,Casado,13,Premium,56.30,Cartao de Credito,7.3,4,1,1,Sim,Sim,Nao
+CLI0007,29,Feminino,Solteiro,22,Padrao,42.75,Cartao de Credito,5.7,5,0,2,Nao,Nao,Sim
+CLI0008,45,Feminino,Casado,31,Basico,27.65,Boleto,6.2,3,1,0,Nao,Nao,Nao
+CLI0009,19,Feminino,Casado,13,Padrao,40.64,Boleto,19.5,5,1,0,Sim,Nao,Sim
+CLI0010,22,Feminino,Solteiro,5,Premium,59.64,Cartao de Credito,8.2,4,2,1,Nao,Nao,Nao
+CLI0011,19,Feminino,Divorciado,29,Padrao,44.17,Pix,10.1,6,0,0,Nao,Nao,Sim
+CLI0012,18,Masculino,Solteiro,2,Premium,60.42,Debito Automatico,3.6,1,1,2,Nao,Nao,Sim
+CLI0013,28,Feminino,Casado,16,Premium,58.80,Cartao de Credito,22.3,4,2,2,Nao,Sim,Nao
+CLI0014,20,Masculino,Solteiro,25,Basico,25.33,Pix,4.7,3,2,0,Sim,Nao,Sim
+CLI0015,26,Feminino,Casado,3,Basico,23.21,Pix,138.8,5,1,1,Nao,Sim,Sim
+CLI0016,16,Masculino,Casado,21,Premium,57.08,Debito Automatico,20.5,3,0,1,Nao,Sim,Nao
+CLI0017,46,Masculino,Casado,35,Padrao,156.78,Debito Automatico,5.8,2,1,1,Sim,Nao,Nao
+CLI0018,18,Feminino,Solteiro,7,Premium,54.48,Debito Automatico,16.0,5,1,0,Nao,Sim,Nao
+CLI0019,40,Masculino,Solteiro,33,Basico,22.98,Boleto,0.5,3,1,1,Sim,Nao,Nao
+CLI0020,31,Masculino,Divorciado,37,Basico,25.55,Cartao de Credito,7.7,2,0,1,Nao,Sim,Nao
+CLI0021,23,Feminino,Casado,6,Padrao,38.48,Cartao de Credito,17.4,3,2,1,Nao,Sim,Nao
+CLI0022,27,Feminino,Divorciado,19,Basico,168.19,Debito Automatico,12.2,5,0,1,Sim,Nao,Nao
+CLI0023,26,Masculino,Casado,8,Basico,24.82,Cartao de Credito,6.7,1,1,2,Nao,Sim,Nao
+CLI0024,19,Feminino,Casado,12,Padrao,39.05,Debito Automatico,20.5,5,1,2,Nao,Nao,Nao
+CLI0025,37,Feminino,Solteiro,22,Padrao,37.28,Debito Automatico,0.1,4,4,2,Nao,Nao,Nao
+CLI0026,30,Feminino,Solteiro,16,Padrao,41.82,Pix,7.7,1,1,0,Nao,Nao,Nao
+CLI0027,26,Masculino,Solteiro,12,Padrao,39.07,Boleto,11.6,4,1,1,Sim,Nao,Nao
+CLI0028,16,Feminino,Solteiro,32,Premium,57.90,Debito Automatico,7.7,4,3,1,Nao,Nao,Sim
+CLI0029,40,Feminino,Casado,7,Basico,24.33,Debito Automatico,1.4,3,2,2,Nao,Nao,Sim
+CLI0030,16,Masculino,Casado,14,Basico,27.56,Debito Automatico,0.0,1,4,2,Nao,Nao,Sim
+CLI0031,20,Masculino,Solteiro,17,Padrao,36.19,Cartao de Credito,8.9,5,1,1,Nao,Nao,Sim
+CLI0032,43,Masculino,Divorciado,17,Basico,25.03,Boleto,13.8,3,0,2,Nao,Nao,Sim
+CLI0033,60,Feminino,Casado,22,Premium,58.96,Pix,0.0,5,2,0,Sim,Nao,Sim
+CLI0034,22,Feminino,Divorciado,20,Basico,22.95,Pix,13.9,5,1,0,Nao,Nao,Sim
+CLI0035,20,Masculino,Casado,1,Padrao,195.30,Debito Automatico,10.2,3,1,1,Sim,Sim,Sim
+CLI0036,38,Masculino,Solteiro,4,Padrao,41.91,Boleto,18.0,6,1,0,Nao,Nao,Sim
+CLI0037,16,Feminino,Solteiro,3,Basico,25.93,Cartao de Credito,9.5,4,0,1,Nao,Nao,Sim
+CLI0038,16,Feminino,Solteiro,8,Premium,61.23,Pix,12.7,5,0,1,Nao,Sim,Nao
+CLI0039,38,Masculino,Casado,7,Basico,23.25,Cartao de Credito,1.7,2,0,0,Sim,Nao,Sim
+CLI0040,41,Masculino,Casado,17,Basico,25.28,Debito Automatico,5.5,3,0,1,Sim,Nao,Nao
+CLI0041,30,Masculino,Casado,21,Basico,25.15,Cartao de Credito,0.0,1,0,2,Sim,Nao,Sim
+CLI0042,42,Masculino,Divorciado,33,Premium,62.80,Cartao de Credito,19.1,5,0,0,Sim,Sim,Nao
+CLI0043,30,Feminino,Casado,12,Premium,58.56,Boleto,6.4,6,2,0,Sim,Nao,Nao
+CLI0044,35,Feminino,Casado,39,Premium,58.57,Cartao de Credito,7.0,2,1,0,Sim,Nao,Nao
+CLI0045,16,Feminino,Divorciado,2,Basico,20.39,Boleto,2.2,5,2,1,Nao,Nao,Sim
+CLI0046,62,Masculino,Solteiro,26,Premium,61.30,Cartao de Credito,15.6,6,0,0,Nao,Sim,Nao
+CLI0047,35,Masculino,Solteiro,23,Premium,61.88,Debito Automatico,0.6,3,1,1,Sim,Sim,Sim
+CLI0048,45,Masculino,Casado,7,Padrao,38.55,Pix,7.4,3,3,0,Nao,Sim,Nao
+CLI0049,28,Masculino,Solteiro,24,Padrao,41.10,Boleto,5.6,5,1,2,Nao,Nao,Sim
+CLI0050,34,Feminino,Casado,6,Basico,22.03,Boleto,6.2,1,0,1,Nao,Nao,Nao
+CLI0051,16,Feminino,Casado,3,Premium,59.16,Debito Automatico,8.5,2,3,0,Sim,Sim,Nao
+CLI0052,43,Masculino,Divorciado,12,Padrao,44.02,Cartao de Credito,14.2,6,2,0,Nao,Nao,Sim
+CLI0053,43,Feminino,Divorciado,25,Basico,23.13,Boleto,8.5,5,3,0,Sim,Nao,Sim
+CLI0054,22,Feminino,Solteiro,10,Basico,24.37,Pix,11.1,6,0,3,Nao,Sim,Sim
+CLI0055,28,Masculino,Casado,30,Premium,57.95,Debito Automatico,10.7,6,1,1,Sim,Sim,Nao
+CLI0056,34,Masculino,Solteiro,10,Padrao,41.19,Boleto,19.4,1,2,0,Sim,Sim,Nao
+CLI0057,42,Masculino,Casado,7,Premium,59.15,Debito Automatico,1.1,1,0,1,Sim,Nao,Nao
+CLI0058,45,Masculino,Solteiro,11,Basico,24.51,Debito Automatico,14.9,6,1,1,Nao,Sim,Nao
+CLI0059,44,Masculino,Divorciado,22,Basico,23.74,Debito Automatico,13.4,6,0,0,Sim,Nao,Nao
+CLI0060,28,Feminino,Divorciado,13,Basico,23.92,Pix,3.4,4,1,1,Nao,Nao,Sim
+CLI0061,29,Masculino,Casado,25,Basico,26.40,Debito Automatico,10.5,1,1,0,Nao,Sim,Nao
+CLI0062,16,Feminino,Divorciado,33,Basico,24.92,Cartao de Credito,10.3,1,0,1,Nao,Nao,Nao
+CLI0063,34,Masculino,Solteiro,1,Basico,24.70,Pix,11.2,5,1,1,Sim,Nao,Sim
+CLI0064,30,Feminino,Solteiro,17,Premium,60.43,Boleto,6.3,4,0,2,Nao,Nao,Sim
+CLI0065,31,Masculino,Casado,20,Premium,60.85,Debito Automatico,8.5,6,2,0,Sim,Nao,Sim
+CLI0066,30,Feminino,Solteiro,9,Basico,24.88,Debito Automatico,3.8,6,2,1,Nao,Nao,Sim
+CLI0067,45,Feminino,Solteiro,3,Padrao,38.25,Pix,9.5,6,1,1,Nao,Sim,Sim
+CLI0068,20,Masculino,Solteiro,15,Premium,58.11,Cartao de Credito,13.8,3,1,0,Sim,Sim,Nao
+CLI0069,17,Feminino,Solteiro,5,Basico,21.61,Pix,8.4,2,0,1,Nao,Nao,Nao
+CLI0070,58,Feminino,Solteiro,10,Basico,22.83,Pix,8.6,5,0,0,Nao,Nao,Nao
+CLI0071,36,Feminino,Casado,16,Padrao,41.16,Cartao de Credito,5.8,4,1,2,Sim,Sim,Nao
+CLI0072,28,Masculino,Casado,7,Padrao,43.12,Debito Automatico,6.7,5,0,0,Nao,Nao,Nao
+CLI0073,22,Feminino,Divorciado,17,Padrao,41.18,Cartao de Credito,11.2,4,1,0,Sim,Nao,Nao
+CLI0074,25,Feminino,Casado,27,Padrao,40.74,Boleto,5.3,1,0,1,Nao,Nao,Sim
+CLI0075,35,Feminino,Casado,28,Basico,22.60,Boleto,13.6,2,5,1,Sim,Nao,Sim
+CLI0076,27,Feminino,Solteiro,0,Premium,58.85,Cartao de Credito,2.5,4,3,1,Nao,Sim,Sim
+CLI0077,45,Masculino,Divorciado,1,Basico,25.07,Debito Automatico,17.2,3,1,2,Nao,Nao,Sim
+CLI0078,20,Feminino,Casado,20,Premium,59.13,Boleto,0.0,2,1,2,Nao,Sim,Sim
+CLI0079,54,Masculino,Casado,15,Basico,25.40,Cartao de Credito,5.1,4,2,1,Nao,Sim,Sim
+CLI0080,42,Feminino,Solteiro,6,Basico,27.62,Pix,7.6,2,2,0,Nao,Nao,Nao
+CLI0081,27,Masculino,Solteiro,14,Premium,60.60,Boleto,12.8,5,3,2,Nao,Nao,Sim
+CLI0082,16,Masculino,Solteiro,22,Basico,21.77,Cartao de Credito,0.0,1,3,0,Sim,Nao,Sim
+CLI0083,45,Feminino,Solteiro,6,Premium,59.44,Pix,22.8,2,0,0,Nao,Nao,Nao
+CLI0084,26,Feminino,Divorciado,22,Padrao,39.82,Debito Automatico,10.4,5,1,1,Sim,Sim,Nao
+CLI0085,19,Feminino,Solteiro,33,Padrao,42.31,Debito Automatico,2.1,4,2,1,Nao,Nao,Nao
+CLI0086,40,Feminino,Casado,8,Premium,59.97,Debito Automatico,15.3,3,3,0,Nao,Nao,Sim
+CLI0087,23,Feminino,Casado,8,Padrao,42.93,Cartao de Credito,0.4,4,5,1,Nao,Nao,Sim
+CLI0088,38,Feminino,Solteiro,9,Padrao,35.73,Cartao de Credito,10.2,3,0,0,Sim,Nao,Nao
+CLI0089,51,Masculino,Solteiro,13,Premium,58.81,Debito Automatico,5.0,5,0,1,Nao,Sim,Sim
+CLI0090,18,Masculino,Casado,12,Padrao,39.42,Debito Automatico,4.7,4,2,1,Sim,Nao,Sim
+CLI0091,23,Masculino,Casado,33,Basico,24.50,Boleto,7.3,1,3,0,Nao,Nao,Sim
+CLI0092,30,Feminino,Casado,0,Basico,23.13,Cartao de Credito,7.4,2,0,0,Sim,Nao,Nao
+CLI0093,36,Feminino,Divorciado,3,Padrao,39.86,Pix,5.1,4,0,1,Nao,Nao,Sim
+CLI0094,35,Feminino,Casado,1,Padrao,43.84,Debito Automatico,11.6,4,2,0,Sim,Nao,Nao
+CLI0095,59,Feminino,Divorciado,24,Padrao,43.16,Cartao de Credito,6.0,5,0,1,Nao,Nao,Nao
+CLI0096,21,Feminino,Solteiro,2,Padrao,43.12,Cartao de Credito,0.9,1,2,2,Nao,Nao,Sim
+CLI0097,31,Masculino,Casado,18,Premium,58.13,Boleto,8.9,6,0,2,Sim,Nao,Sim
+CLI0098,16,Masculino,Casado,9,Basico,23.24,Debito Automatico,24.4,6,0,1,Sim,Nao,Nao
+CLI0099,42,Feminino,Divorciado,7,Padrao,38.94,Pix,14.1,5,3,1,Sim,Nao,Nao
+CLI0100,42,Feminino,Solteiro,0,Padrao,38.69,Debito Automatico,4.1,1,1,0,Nao,Nao,Sim
+CLI0101,39,Masculino,Solteiro,10,Premium,62.11,Debito Automatico,10.7,2,3,0,Sim,Sim,Nao
+CLI0102,30,Feminino,Casado,26,Basico,24.09,Boleto,5.6,1,1,1,Sim,Nao,Sim
+CLI0103,41,Masculino,Divorciado,10,Basico,26.16,Debito Automatico,16.8,2,0,0,Sim,Nao,Nao
+CLI0104,17,Feminino,Casado,6,Basico,24.77,Boleto,11.9,3,2,0,Nao,Nao,Nao
+CLI0105,16,Feminino,Casado,4,Premium,57.53,Cartao de Credito,4.9,3,3,0,Nao,Nao,Sim
+CLI0106,30,Feminino,Solteiro,11,Padrao,36.02,Cartao de Credito,4.2,3,2,0,Nao,Sim,Nao
+CLI0107,34,Masculino,Casado,2,Premium,56.61,Debito Automatico,7.2,3,1,2,Nao,Nao,Nao
+CLI0108,22,Masculino,Casado,10,Basico,24.68,Boleto,14.3,3,1,2,Sim,Sim,Sim
+CLI0109,34,Feminino,Solteiro,24,Premium,60.05,Cartao de Credito,11.9,4,2,1,Nao,Nao,Sim
+CLI0110,19,Feminino,Casado,2,Basico,18.53,Pix,0.0,5,0,1,Nao,Nao,Sim
+CLI0111,22,Masculino,Divorciado,11,Basico,22.83,Cartao de Credito,2.4,3,1,3,Nao,Nao,Sim
+CLI0112,41,Masculino,Divorciado,9,Padrao,42.68,Cartao de Credito,7.3,4,2,1,Nao,Sim,Sim
+CLI0113,27,Masculino,Solteiro,31,Padrao,38.86,Cartao de Credito,19.4,5,3,1,Sim,Nao,Nao
+CLI0114,30,Feminino,Casado,8,Premium,58.41,Cartao de Credito,15.5,5,0,3,Nao,Nao,Nao
+CLI0115,36,Feminino,Solteiro,7,Basico,23.94,Cartao de Credito,4.1,3,0,0,Sim,Sim,Nao
+CLI0116,40,Masculino,Solteiro,9,Basico,24.03,Debito Automatico,0.0,3,1,2,Nao,Sim,Sim
+CLI0117,16,Masculino,Casado,13,Basico,24.38,Debito Automatico,10.3,1,1,1,Nao,Nao,Nao
+CLI0118,22,Feminino,Casado,6,Padrao,41.00,Debito Automatico,6.2,6,1,0,Nao,Nao,Nao
+CLI0119,47,Masculino,Casado,5,Premium,62.37,Boleto,7.0,5,1,1,Nao,Nao,Nao
+CLI0120,32,Masculino,Casado,23,Padrao,39.87,Debito Automatico,18.9,1,2,1,Sim,Nao,Nao
+CLI0121,17,Masculino,Casado,12,Padrao,39.28,Debito Automatico,3.4,5,1,1,Nao,Sim,Sim
+CLI0122,43,Masculino,Divorciado,4,Premium,59.16,Boleto,12.9,1,0,0,Nao,Nao,Nao
+CLI0123,19,Masculino,Casado,17,Basico,26.59,Pix,22.8,6,1,1,Nao,Nao,Nao
+CLI0124,21,Masculino,Casado,21,Padrao,40.06,Boleto,0.0,1,4,0,Nao,Nao,Sim
+CLI0125,19,Feminino,Solteiro,11,Padrao,41.89,Pix,12.2,6,1,0,Sim,Sim,Nao
+CLI0126,31,Masculino,Solteiro,2,Premium,60.01,Debito Automatico,8.4,2,1,1,Nao,Nao,Nao
+CLI0127,46,Masculino,Casado,25,Padrao,38.62,Boleto,16.1,4,1,1,Sim,Nao,Nao
+CLI0128,28,Feminino,Casado,11,Padrao,42.75,Cartao de Credito,5.0,5,3,1,Sim,Sim,Nao
+CLI0129,36,Feminino,Casado,21,Basico,26.65,Debito Automatico,4.6,4,1,1,Nao,Nao,Nao
+CLI0130,37,Feminino,Divorciado,18,Padrao,38.59,Boleto,22.5,1,5,1,Nao,Nao,Sim
+CLI0131,54,Masculino,Solteiro,10,Padrao,38.73,Cartao de Credito,7.9,6,1,0,Nao,Sim,Nao
+CLI0132,25,Masculino,Casado,20,Padrao,37.39,Pix,2.8,4,1,1,Sim,Nao,Nao
+CLI0133,50,Masculino,Solteiro,26,Basico,24.28,Cartao de Credito,6.0,3,1,1,Sim,Nao,Nao
+CLI0134,23,Masculino,Casado,3,Premium,56.27,Boleto,16.7,4,0,1,Sim,Sim,Nao
+CLI0135,30,Masculino,Casado,18,Padrao,41.78,Debito Automatico,13.5,5,0,2,Nao,Nao,Sim
+CLI0136,40,Masculino,Solteiro,14,Padrao,41.41,Cartao de Credito,24.1,2,1,1,Sim,Sim,Nao
+CLI0137,36,Masculino,Casado,7,Padrao,40.67,Boleto,7.7,6,1,1,Sim,Sim,Nao
+CLI0138,42,Masculino,Casado,22,Basico,26.08,Cartao de Credito,9.0,5,3,0,Sim,Nao,Nao
+CLI0139,24,Feminino,Solteiro,24,Basico,25.57,Cartao de Credito,2.3,4,0,1,Nao,Nao,Nao
+CLI0140,16,Feminino,Solteiro,13,Padrao,41.24,Cartao de Credito,3.1,2,0,1,Sim,Nao,Nao
+CLI0141,22,Masculino,Casado,17,Padrao,39.04,Debito Automatico,7.4,6,1,1,Nao,Nao,Nao
+CLI0142,33,Masculino,Divorciado,32,Padrao,37.74,Pix,1.0,4,0,1,Nao,Sim,Nao
+CLI0143,32,Masculino,Solteiro,14,Padrao,39.10,Debito Automatico,5.9,6,2,1,Sim,Sim,Nao
+CLI0144,16,Masculino,Solteiro,5,Padrao,41.30,Boleto,10.8,2,2,0,Nao,Nao,Sim
+CLI0145,36,Masculino,Divorciado,31,Padrao,41.02,Debito Automatico,0.2,1,1,4,Nao,Nao,Sim
+CLI0146,58,Feminino,Solteiro,12,Premium,59.45,Pix,131.4,6,2,1,Nao,Nao,Nao
+CLI0147,18,Masculino,Solteiro,2,Padrao,40.10,Pix,5.8,5,1,1,Sim,Nao,Sim
+CLI0148,33,Feminino,Divorciado,1,Padrao,43.39,Debito Automatico,4.7,3,3,1,Sim,Sim,Sim
+CLI0149,38,Feminino,Divorciado,24,Basico,26.29,Debito Automatico,153.7,1,0,0,Nao,Sim,Nao
+CLI0150,41,Feminino,Solteiro,12,Basico,27.92,Pix,3.8,4,0,1,Nao,Sim,Sim
+CLI0151,20,Masculino,Casado,20,Padrao,40.25,Cartao de Credito,13.0,1,4,1,Sim,Nao,Nao
+CLI0152,41,Masculino,Casado,2,Premium,61.08,Boleto,18.6,3,3,0,Nao,Nao,Sim
+CLI0153,35,Masculino,Divorciado,36,Basico,22.78,Debito Automatico,9.8,6,1,2,Nao,Sim,Nao
+CLI0154,16,Feminino,Divorciado,24,Basico,23.38,Cartao de Credito,11.4,5,2,1,Nao,Nao,Sim
+CLI0155,16,Masculino,Divorciado,7,Basico,24.94,Boleto,2.9,1,2,1,Nao,Nao,Sim
+CLI0156,28,Feminino,Solteiro,45,Padrao,39.49,Boleto,12.4,2,3,3,Nao,Sim,Nao
+CLI0157,16,Feminino,Divorciado,9,Basico,23.87,Cartao de Credito,18.8,2,4,1,Sim,Sim,Sim
+CLI0158,16,Masculino,Casado,3,Basico,25.34,Cartao de Credito,5.1,2,3,1,Nao,Nao,Sim
+CLI0159,16,Masculino,Casado,19,Premium,56.93,Cartao de Credito,17.4,6,1,0,Sim,Nao,Nao
+CLI0160,31,Feminino,Casado,13,Basico,25.06,Cartao de Credito,8.7,3,0,3,Nao,Nao,Nao
+CLI0161,46,Masculino,Casado,0,Premium,57.80,Boleto,9.9,3,13,0,Nao,Nao,Sim
+CLI0162,38,Feminino,Solteiro,17,Premium,60.22,Cartao de Credito,10.5,1,2,1,Sim,Sim,Nao
+CLI0163,45,Masculino,Casado,21,Premium,60.47,Cartao de Credito,7.3,1,1,1,Sim,Nao,Sim
+CLI0164,35,Masculino,Casado,14,Padrao,40.93,Boleto,0.0,6,0,0,Sim,Sim,Nao
+CLI0165,23,Masculino,Solteiro,29,Basico,20.73,Debito Automatico,9.1,4,0,2,Sim,Nao,Nao
+CLI0166,33,Feminino,Divorciado,0,Padrao,38.46,Debito Automatico,1.1,5,3,1,Nao,Nao,Sim
+CLI0167,21,Feminino,Solteiro,18,Premium,59.84,Cartao de Credito,148.0,1,1,1,Nao,Nao,Sim
+CLI0168,31,Feminino,Casado,4,Padrao,42.25,Boleto,16.8,4,0,0,Nao,Nao,Nao
+CLI0169,30,Masculino,Casado,2,Premium,60.42,Cartao de Credito,10.5,2,0,0,Sim,Sim,Sim
+CLI0170,27,Masculino,Casado,26,Padrao,43.87,Boleto,0.7,3,1,1,Sim,Nao,Sim
+CLI0171,29,Masculino,Casado,25,Padrao,41.24,Boleto,13.8,5,2,1,Sim,Nao,Nao
+CLI0172,20,Masculino,Divorciado,16,Padrao,37.04,Boleto,6.1,6,0,0,Sim,Nao,Sim
+CLI0173,53,Feminino,Solteiro,2,Basico,27.37,Cartao de Credito,12.5,3,2,0,Nao,Nao,Nao
+CLI0174,38,Masculino,Solteiro,16,Premium,64.90,Pix,18.3,5,2,3,Sim,Sim,Nao
+CLI0175,33,Feminino,Casado,15,Premium,57.04,Debito Automatico,1.1,5,0,2,Nao,Nao,Nao
+CLI0176,22,Masculino,Divorciado,10,Basico,25.28,Debito Automatico,15.4,5,1,0,Nao,Nao,Nao
+CLI0177,42,Masculino,Casado,5,Basico,22.57,Cartao de Credito,130.0,1,3,2,Nao,Sim,Nao
+CLI0178,27,Feminino,Divorciado,14,Padrao,40.25,Cartao de Credito,5.5,2,2,2,Nao,Sim,Nao
+CLI0179,16,Masculino,Casado,13,Premium,58.84,Cartao de Credito,20.5,6,2,1,Sim,Sim,Sim
+CLI0180,35,Feminino,Solteiro,39,Padrao,35.96,Cartao de Credito,12.3,2,0,1,Nao,Nao,Nao
+CLI0181,33,Feminino,Casado,5,Padrao,37.71,Debito Automatico,6.0,3,2,1,Nao,Sim,Nao
+CLI0182,26,Feminino,Casado,1,Padrao,39.69,Cartao de Credito,9.0,2,1,1,Sim,Sim,Nao
+CLI0183,38,Masculino,Casado,34,Premium,59.09,Pix,12.9,6,1,2,Nao,Nao,Nao
+CLI0184,23,Masculino,Divorciado,35,Padrao,37.49,Boleto,14.5,5,0,0,Nao,Nao,Nao
+CLI0185,33,Feminino,Solteiro,1,Basico,196.26,Debito Automatico,6.6,1,0,1,Nao,Nao,Sim
+CLI0186,31,Feminino,Divorciado,28,Basico,21.39,Boleto,0.6,1,0,0,Sim,Sim,Nao
+CLI0187,40,Masculino,Casado,16,Premium,53.64,Cartao de Credito,8.7,3,0,1,Nao,Nao,Nao
+CLI0188,16,Masculino,Solteiro,24,Basico,24.57,Debito Automatico,6.9,1,1,1,Sim,Sim,Nao
+CLI0189,40,Feminino,Solteiro,6,Premium,59.70,Boleto,8.9,5,1,0,Nao,Sim,Sim
+CLI0190,50,Masculino,Casado,15,Basico,26.86,Debito Automatico,20.2,1,2,0,Sim,Nao,Nao
+CLI0191,23,Masculino,Solteiro,7,Basico,29.06,Cartao de Credito,3.7,1,1,1,Nao,Nao,Sim
+CLI0192,21,Feminino,Casado,5,Padrao,42.11,Debito Automatico,158.5,2,3,1,Nao,Nao,Sim
+CLI0193,18,Feminino,Divorciado,12,Padrao,39.80,Debito Automatico,0.0,5,1,1,Nao,Nao,Nao
+CLI0194,25,Masculino,Divorciado,2,Basico,25.83,Pix,15.3,2,0,3,Nao,Sim,Sim
+CLI0195,27,Masculino,Solteiro,22,Padrao,41.55,Debito Automatico,5.6,3,3,1,Nao,Nao,Sim
+CLI0196,51,Masculino,Solteiro,18,Premium,60.38,Cartao de Credito,6.8,6,2,1,Sim,Nao,Sim
+CLI0197,33,Masculino,Casado,15,Basico,26.69,Cartao de Credito,9.1,2,2,1,Nao,Nao,Nao
+CLI0198,28,Masculino,Solteiro,55,Basico,25.10,Boleto,11.4,3,2,0,Nao,Nao,Nao
+CLI0199,24,Masculino,Casado,1,Premium,56.45,Pix,10.0,2,1,0,Nao,Nao,Sim
+CLI0200,28,Masculino,Casado,10,Padrao,40.38,Debito Automatico,7.2,1,3,0,Nao,Nao,Nao
+CLI0201,47,Masculino,Casado,1,Padrao,38.27,Cartao de Credito,10.4,3,1,2,Sim,Nao,Nao
+CLI0202,29,Masculino,Casado,6,Padrao,41.56,Boleto,15.7,4,1,1,Nao,Nao,Sim
+CLI0203,31,Feminino,Solteiro,0,Basico,21.52,Debito Automatico,8.1,2,1,0,Nao,Nao,Sim
+CLI0204,34,Masculino,Divorciado,15,Padrao,36.02,Pix,1.5,6,4,0,Sim,Nao,Nao
+CLI0205,33,Feminino,Solteiro,0,Basico,26.33,Pix,18.7,1,13,3,Sim,Sim,Sim
+CLI0206,34,Feminino,Casado,21,Basico,24.94,Boleto,13.0,2,3,2,Sim,Nao,Nao
+CLI0207,32,Feminino,Casado,32,Premium,62.73,Pix,0.0,3,3,1,Nao,Nao,Nao
+CLI0208,30,Feminino,Solteiro,6,Premium,56.67,Cartao de Credito,10.7,6,2,0,Nao,Nao,Sim
+CLI0209,38,Masculino,Casado,10,Basico,25.08,Debito Automatico,2.9,2,0,0,Nao,Sim,Nao
+CLI0210,28,Feminino,Solteiro,7,Padrao,35.23,Pix,3.3,4,0,0,Sim,Sim,Nao
+CLI0211,19,Masculino,Casado,14,Basico,22.93,Pix,9.4,4,1,0,Nao,Sim,Nao
+CLI0212,43,Masculino,Divorciado,15,Premium,58.45,Debito Automatico,13.1,4,3,0,Sim,Nao,Nao
+CLI0213,33,Masculino,Solteiro,15,Padrao,43.69,Cartao de Credito,1.8,6,0,2,Sim,Nao,Nao
+CLI0214,16,Feminino,Solteiro,11,Basico,28.14,Debito Automatico,17.2,5,0,1,Nao,Nao,Nao
+CLI0215,32,Masculino,Solteiro,31,Basico,24.33,Cartao de Credito,5.6,5,1,0,Nao,Nao,Nao
+CLI0216,43,Feminino,Solteiro,10,Basico,23.79,Pix,0.0,6,2,1,Nao,Nao,Sim
+CLI0217,20,Feminino,Casado,14,Basico,24.47,Pix,8.5,3,1,1,Sim,Nao,Nao
+CLI0218,36,Feminino,Solteiro,8,Premium,57.59,Pix,20.8,4,2,0,Nao,Nao,Nao
+CLI0219,16,Feminino,Casado,10,Padrao,41.42,Pix,3.0,3,0,2,Nao,Nao,Sim
+CLI0220,44,Masculino,Divorciado,12,Basico,26.48,Debito Automatico,11.6,4,0,1,Nao,Nao,Sim
+CLI0221,26,Feminino,Casado,5,Padrao,40.96,Cartao de Credito,11.0,2,2,1,Nao,Sim,Nao
+CLI0222,32,Feminino,Solteiro,11,Basico,23.03,Cartao de Credito,14.1,3,2,1,Nao,Sim,Nao
+CLI0223,34,Feminino,Casado,7,Basico,25.69,Pix,14.6,6,2,1,Sim,Nao,Nao
+CLI0224,38,Feminino,Solteiro,18,Premium,60.92,Cartao de Credito,5.9,5,0,1,Sim,Nao,Nao
+CLI0225,17,Masculino,Solteiro,19,Premium,62.14,Debito Automatico,6.9,2,1,0,Nao,Nao,Nao
+CLI0226,16,Masculino,Divorciado,40,Padrao,39.88,Boleto,8.7,6,1,0,Nao,Nao,Nao
+CLI0227,32,Masculino,Casado,48,Basico,24.34,Cartao de Credito,8.3,3,0,1,Sim,Nao,Nao
+CLI0228,37,Feminino,Casado,5,Premium,58.73,Cartao de Credito,1.5,6,0,1,Nao,Nao,Nao
+CLI0229,37,Masculino,Casado,3,Basico,25.10,Pix,5.0,3,3,1,Nao,Nao,Sim
+CLI0230,16,Masculino,Casado,34,Basico,25.59,Debito Automatico,16.1,6,2,1,Nao,Nao,Nao
+CLI0231,18,Masculino,Divorciado,3,Basico,28.33,Cartao de Credito,10.1,6,2,0,Nao,Nao,Nao
+CLI0232,32,Feminino,Casado,17,Padrao,40.55,Debito Automatico,9.2,6,3,3,Nao,Sim,Nao
+CLI0233,30,Feminino,Casado,8,Basico,27.07,Cartao de Credito,10.3,3,2,2,Sim,Nao,Sim
+CLI0234,27,Feminino,Solteiro,30,Premium,59.71,Cartao de Credito,6.8,4,2,0,Sim,Nao,Nao
+CLI0235,46,Feminino,Solteiro,4,Padrao,38.57,Cartao de Credito,3.5,4,1,2,Nao,Nao,Sim
+CLI0236,16,Masculino,Divorciado,15,Padrao,40.01,Debito Automatico,10.8,1,1,2,Nao,Nao,Nao
+CLI0237,39,Masculino,Solteiro,8,Padrao,38.71,Cartao de Credito,19.0,6,1,2,Nao,Sim,Nao
+CLI0238,25,Feminino,Casado,12,Premium,58.89,Cartao de Credito,14.9,1,2,1,Sim,Nao,Nao
+CLI0239,30,Feminino,Casado,12,Basico,26.74,Boleto,15.1,1,1,2,Nao,Nao,Sim
+CLI0240,16,Masculino,Casado,0,Basico,24.40,Cartao de Credito,12.8,1,13,0,Nao,Sim,Sim
+CLI0241,26,Feminino,Casado,1,Premium,59.02,Cartao de Credito,7.2,4,2,1,Nao,Nao,Sim
+CLI0242,45,Masculino,Casado,6,Padrao,37.29,Pix,9.6,1,2,0,Nao,Nao,Nao
+CLI0243,24,Feminino,Solteiro,12,Basico,26.10,Boleto,12.0,3,0,2,Nao,Nao,Nao
+CLI0244,49,Masculino,Solteiro,28,Premium,60.10,Debito Automatico,10.4,2,3,1,Nao,Sim,Nao
+CLI0245,31,Feminino,Casado,2,Padrao,39.14,Debito Automatico,16.2,6,2,0,Nao,Sim,Sim
+CLI0246,16,Feminino,Casado,13,Padrao,40.76,Cartao de Credito,0.3,5,1,0,Sim,Sim,Nao
+CLI0247,26,Masculino,Solteiro,16,Padrao,40.48,Boleto,6.1,4,1,1,Nao,Nao,Sim
+CLI0248,20,Feminino,Casado,34,Premium,60.99,Cartao de Credito,6.6,3,2,1,Nao,Nao,Nao
+CLI0249,39,Masculino,Solteiro,12,Basico,23.68,Pix,7.1,1,2,1,Nao,Nao,Nao
+CLI0250,28,Feminino,Solteiro,15,Premium,59.82,Pix,19.0,2,1,2,Sim,Sim,Sim
+CLI0251,26,Masculino,Casado,4,Padrao,39.24,Pix,18.5,5,3,0,Sim,Nao,Nao
+CLI0252,32,Masculino,Divorciado,4,Padrao,41.42,Boleto,4.2,3,2,1,Sim,Sim,Sim
+CLI0253,34,Feminino,Casado,4,Premium,61.18,Debito Automatico,6.1,3,2,0,Nao,Nao,Sim
+CLI0254,41,Feminino,Casado,29,Premium,62.47,Boleto,15.3,4,0,0,Nao,Nao,Sim
+CLI0255,41,Masculino,Solteiro,1,Padrao,36.95,Debito Automatico,0.8,2,1,1,Sim,Nao,Sim
+CLI0256,52,Feminino,Solteiro,22,Premium,64.86,Boleto,17.1,4,1,1,Nao,Nao,Sim
+CLI0257,32,Masculino,Solteiro,2,Padrao,39.52,Cartao de Credito,6.3,4,1,1,Sim,Sim,Nao
+CLI0258,43,Masculino,Solteiro,6,Padrao,39.43,Cartao de Credito,0.0,6,0,1,Nao,Nao,Nao
+CLI0259,34,Feminino,Solteiro,0,Padrao,44.17,Debito Automatico,14.5,5,2,1,Sim,Nao,Nao
+CLI0260,16,Feminino,Solteiro,8,Premium,59.23,Cartao de Credito,19.4,5,1,1,Sim,Nao,Nao
+CLI0261,44,Feminino,Solteiro,6,Padrao,43.51,Cartao de Credito,11.6,3,1,0,Sim,Sim,Nao
+CLI0262,53,Masculino,Solteiro,0,Padrao,39.09,Cartao de Credito,6.7,1,3,3,Sim,Nao,Sim
+CLI0263,23,Masculino,Casado,20,Premium,59.89,Boleto,11.0,1,1,1,Nao,Sim,Nao
+CLI0264,29,Feminino,Casado,22,Basico,23.99,Pix,1.2,5,1,2,Nao,Sim,Nao
+CLI0265,27,Feminino,Casado,4,Padrao,43.06,Cartao de Credito,24.7,1,1,1,Nao,Nao,Nao
+CLI0266,16,Feminino,Solteiro,5,Premium,63.20,Cartao de Credito,19.2,6,2,1,Sim,Sim,Nao
+CLI0267,21,Feminino,Casado,43,Premium,60.58,Cartao de Credito,14.2,1,1,0,Sim,Nao,Sim
+CLI0268,30,Feminino,Solteiro,9,Padrao,37.26,Debito Automatico,2.8,1,2,2,Sim,Nao,Nao
+CLI0269,20,Masculino,Casado,2,Padrao,39.37,Debito Automatico,8.9,5,2,0,Sim,Nao,Nao
+CLI0270,31,Feminino,Divorciado,7,Padrao,38.46,Cartao de Credito,1.5,4,0,1,Sim,Sim,Nao
+CLI0271,44,Feminino,Casado,5,Premium,57.48,Cartao de Credito,8.7,3,1,0,Sim,Nao,Nao
+CLI0272,28,Masculino,Solteiro,8,Padrao,39.13,Cartao de Credito,5.8,4,1,2,Sim,Nao,Nao
+CLI0273,25,Masculino,Solteiro,5,Basico,27.06,Boleto,16.1,1,0,2,Nao,Sim,Sim
+CLI0274,22,Masculino,Solteiro,13,Padrao,42.10,Debito Automatico,2.4,3,1,2,Nao,Sim,Nao
+CLI0275,25,Masculino,Solteiro,11,Basico,24.33,Cartao de Credito,0.5,5,0,4,Nao,Sim,Sim
+CLI0276,16,Feminino,Solteiro,26,Premium,60.44,Debito Automatico,14.0,1,1,1,Sim,Nao,Sim
+CLI0277,27,Feminino,Divorciado,13,Premium,63.00,Debito Automatico,11.7,3,0,1,Nao,Nao,Nao
+CLI0278,20,Feminino,Solteiro,13,Premium,152.45,Pix,7.0,2,0,2,Nao,Nao,Nao
+CLI0279,36,Masculino,Solteiro,9,Basico,27.52,Cartao de Credito,6.2,2,1,1,Sim,Nao,Nao
+CLI0280,28,Masculino,Casado,26,Padrao,38.32,Cartao de Credito,8.8,6,1,1,Sim,Nao,Sim
+CLI0281,24,Feminino,Solteiro,16,Basico,21.91,Cartao de Credito,12.9,4,1,0,Nao,Sim,Nao
+CLI0282,25,Feminino,Solteiro,28,Padrao,39.68,Debito Automatico,5.8,5,1,1,Nao,Sim,Sim
+CLI0283,41,Masculino,Divorciado,5,Basico,23.63,Cartao de Credito,5.6,6,1,1,Nao,Sim,Sim
+CLI0284,40,Masculino,Solteiro,4,Basico,25.07,Cartao de Credito,3.9,6,1,1,Nao,Nao,Sim
+CLI0285,22,Masculino,Solteiro,7,Premium,60.66,Debito Automatico,5.2,3,1,1,Nao,Nao,Sim
+CLI0286,30,Masculino,Casado,15,Padrao,39.52,Boleto,10.1,3,1,0,Nao,Nao,Nao
+CLI0287,17,Feminino,Solteiro,20,Padrao,40.57,Boleto,2.7,1,0,1,Sim,Nao,Nao
+CLI0288,30,Masculino,Casado,31,Padrao,40.99,Pix,22.6,4,1,0,Sim,Sim,Nao
+CLI0289,24,Masculino,Solteiro,20,Premium,182.28,Cartao de Credito,13.3,1,1,1,Sim,Nao,Nao
+CLI0290,44,Feminino,Casado,15,Basico,22.62,Cartao de Credito,7.5,1,1,0,Nao,Nao,Sim
+CLI0291,29,Masculino,Solteiro,11,Premium,56.75,Cartao de Credito,7.3,3,0,2,Sim,Nao,Nao
+CLI0292,16,Feminino,Solteiro,32,Premium,59.33,Cartao de Credito,4.1,5,1,2,Nao,Nao,Sim
+CLI0293,39,Masculino,Casado,2,Padrao,39.89,Cartao de Credito,13.5,1,1,1,Sim,Nao,Nao
+CLI0294,25,Masculino,Divorciado,0,Premium,60.34,Cartao de Credito,13.6,4,1,0,Sim,Nao,Sim
+CLI0295,29,Masculino,Casado,10,Premium,58.20,Cartao de Credito,3.4,1,2,2,Nao,Sim,Sim
+CLI0296,47,Feminino,Solteiro,4,Premium,60.85,Boleto,25.2,1,1,2,Nao,Sim,Sim
+CLI0297,52,Masculino,Solteiro,16,Padrao,43.35,Debito Automatico,6.9,3,2,0,Sim,Nao,Nao
+CLI0298,40,Feminino,Casado,33,Premium,63.36,Cartao de Credito,11.9,2,1,2,Sim,Nao,Nao
+CLI0299,28,Feminino,Casado,36,Basico,25.42,Boleto,13.4,3,0,1,Sim,Nao,Nao
+CLI0300,42,Feminino,Solteiro,4,Padrao,36.45,Cartao de Credito,0.0,4,0,2,Sim,Nao,Nao
+CLI0301,19,Feminino,Casado,33,Premium,60.92,Cartao de Credito,14.9,2,1,0,Sim,Nao,Sim
+CLI0302,38,Feminino,Solteiro,28,Padrao,38.01,Debito Automatico,15.2,1,2,2,Sim,Nao,Nao
+CLI0303,24,Masculino,Solteiro,17,Premium,60.00,Pix,16.3,4,1,1,Sim,Nao,Sim
+CLI0304,32,Feminino,Solteiro,3,Basico,23.55,Cartao de Credito,2.6,2,0,2,Nao,Nao,Sim
+CLI0305,33,Masculino,Solteiro,13,Padrao,37.53,Debito Automatico,1.4,6,0,1,Nao,Sim,Sim
+CLI0306,38,Feminino,Solteiro,3,Padrao,39.91,Debito Automatico,10.3,2,2,1,Nao,Nao,Sim
+CLI0307,18,Masculino,Solteiro,36,Padrao,42.91,Boleto,17.0,4,0,2,Nao,Nao,Sim
+CLI0308,16,Masculino,Casado,8,Padrao,34.65,Debito Automatico,6.0,3,1,0,Nao,Sim,Nao
+CLI0309,42,Masculino,Solteiro,27,Basico,24.09,Debito Automatico,12.7,4,2,3,Nao,Nao,Sim
+CLI0310,20,Masculino,Casado,18,Padrao,40.20,Cartao de Credito,9.0,1,2,1,Sim,Nao,Sim
+CLI0311,32,Feminino,Divorciado,12,Basico,27.53,Pix,10.9,4,0,1,Sim,Nao,Nao
+CLI0312,47,Masculino,Casado,15,Padrao,40.82,Boleto,5.7,4,1,1,Sim,Sim,Sim
+CLI0313,24,Masculino,Solteiro,14,Padrao,38.76,Boleto,0.0,1,1,1,Sim,Nao,Nao
+CLI0314,30,Masculino,Solteiro,28,Basico,24.27,Debito Automatico,6.1,5,1,1,Nao,Nao,Nao
+CLI0315,38,Feminino,Divorciado,9,Basico,27.11,Cartao de Credito,3.5,6,1,0,Nao,Sim,Sim
+CLI0316,24,Masculino,Solteiro,11,Premium,57.81,Boleto,6.7,1,0,2,Nao,Sim,Nao
+CLI0317,28,Masculino,Casado,8,Premium,58.70,Debito Automatico,11.0,3,3,0,Nao,Nao,Nao
+CLI0318,35,Feminino,Casado,9,Padrao,38.67,Boleto,10.5,1,0,2,Sim,Nao,Sim
+CLI0319,42,Feminino,Casado,0,Basico,24.34,Pix,4.9,1,1,1,Nao,Nao,Sim
+CLI0320,37,Feminino,Solteiro,46,Premium,58.84,Cartao de Credito,5.2,1,2,0,Nao,Nao,Sim
+CLI0321,16,Masculino,Casado,2,Basico,24.28,Boleto,8.2,5,1,2,Nao,Sim,Nao
+CLI0322,16,Masculino,Solteiro,21,Premium,60.69,Cartao de Credito,11.9,5,3,1,Nao,Nao,Sim
+CLI0323,34,Feminino,Casado,14,Padrao,37.67,Cartao de Credito,12.8,6,4,2,Nao,Nao,Nao
+CLI0324,38,Masculino,Casado,27,Basico,25.88,Cartao de Credito,7.0,2,1,3,Sim,Sim,Nao
+CLI0325,32,Masculino,Solteiro,24,Basico,199.07,Pix,17.5,2,2,0,Nao,Nao,Nao
+CLI0326,29,Masculino,Solteiro,1,Premium,62.20,Cartao de Credito,15.0,1,2,0,Nao,Sim,Sim
+CLI0327,16,Feminino,Solteiro,3,Premium,55.84,Pix,8.9,1,2,0,Nao,Nao,Sim
+CLI0328,55,Masculino,Solteiro,7,Basico,27.46,Debito Automatico,13.7,5,0,1,Sim,Nao,Nao
+CLI0329,48,Feminino,Solteiro,8,Padrao,42.34,Debito Automatico,9.0,4,4,0,Nao,Sim,Nao
+CLI0330,27,Masculino,Solteiro,4,Basico,23.91,Boleto,13.4,6,3,1,Nao,Sim,Nao
+CLI0331,28,Masculino,Solteiro,9,Basico,22.90,Cartao de Credito,4.7,2,2,2,Nao,Nao,Sim
+CLI0332,31,Feminino,Solteiro,24,Padrao,39.83,Cartao de Credito,9.9,6,1,1,Sim,Nao,Nao
+CLI0333,37,Masculino,Solteiro,10,Basico,25.50,Cartao de Credito,11.3,1,1,0,Sim,Nao,Nao
+CLI0334,27,Masculino,Solteiro,10,Padrao,38.20,Debito Automatico,10.1,3,2,2,Nao,Sim,Nao
+CLI0335,28,Masculino,Casado,3,Premium,60.96,Debito Automatico,4.0,4,0,1,Sim,Nao,Sim
+CLI0336,57,Feminino,Casado,34,Basico,27.23,Cartao de Credito,2.0,1,1,2,Nao,Nao,Nao
+CLI0337,27,Feminino,Divorciado,29,Basico,27.94,Cartao de Credito,11.9,4,1,2,Nao,Sim,Nao
+CLI0338,28,Masculino,Solteiro,38,Basico,24.53,Debito Automatico,6.1,2,2,1,Nao,Nao,Nao
+CLI0339,19,Masculino,Solteiro,5,Padrao,38.94,Boleto,10.0,3,2,1,Nao,Nao,Sim
+CLI0340,28,Masculino,Casado,14,Padrao,173.83,Debito Automatico,0.0,2,4,0,Sim,Sim,Sim
+CLI0341,26,Masculino,Casado,16,Basico,26.36,Pix,6.9,2,0,1,Sim,Nao,Nao
+CLI0342,17,Masculino,Divorciado,20,Premium,58.67,Boleto,14.3,6,1,1,Nao,Nao,Sim
+CLI0343,33,Masculino,Solteiro,12,Padrao,40.33,Debito Automatico,5.2,5,1,1,Nao,Nao,Sim
+CLI0344,41,Masculino,Solteiro,8,Padrao,42.03,Cartao de Credito,5.2,5,2,0,Sim,Nao,Nao
+CLI0345,16,Masculino,Solteiro,18,Basico,26.34,Boleto,2.7,5,3,1,Sim,Nao,Nao
+CLI0346,37,Masculino,Solteiro,46,Padrao,42.72,Pix,14.9,6,1,1,Nao,Nao,Nao
+CLI0347,50,Feminino,Casado,19,Padrao,38.32,Cartao de Credito,141.9,3,2,3,Nao,Sim,Nao
+CLI0348,30,Masculino,Casado,32,Padrao,42.35,Cartao de Credito,15.7,4,0,0,Sim,Nao,Nao
+CLI0349,25,Feminino,Solteiro,14,Padrao,39.76,Cartao de Credito,8.0,1,3,1,Nao,Sim,Sim
+CLI0350,19,Masculino,Casado,22,Premium,57.10,Boleto,8.1,3,3,1,Sim,Nao,Sim
+CLI0351,20,Masculino,Casado,14,Premium,63.80,Cartao de Credito,18.8,3,0,1,Nao,Nao,Nao
+CLI0352,16,Masculino,Casado,1,Basico,27.11,Boleto,4.9,4,3,1,Nao,Nao,Sim
+CLI0353,34,Feminino,Divorciado,17,Padrao,42.40,Cartao de Credito,0.0,1,1,1,Sim,Nao,Nao
+CLI0354,27,Feminino,Casado,10,Padrao,43.70,Cartao de Credito,13.4,3,1,1,Sim,Nao,Nao
+CLI0355,19,Masculino,Casado,9,Padrao,38.40,Boleto,120.3,1,1,1,Nao,Nao,Nao
+CLI0356,27,Feminino,Divorciado,24,Padrao,40.22,Cartao de Credito,4.9,3,1,0,Sim,Nao,Nao
+CLI0357,16,Masculino,Divorciado,10,Premium,59.80,Boleto,12.7,1,1,1,Nao,Nao,Sim
+CLI0358,22,Feminino,Casado,31,Padrao,37.47,Cartao de Credito,0.0,4,1,1,Nao,Nao,Nao
+CLI0359,40,Masculino,Solteiro,3,Padrao,36.29,Cartao de Credito,6.4,3,3,0,Nao,Nao,Sim
+CLI0360,24,Feminino,Solteiro,15,Basico,23.72,Debito Automatico,14.1,2,2,0,Nao,Sim,Nao
+CLI0361,46,Masculino,Casado,38,Basico,26.04,Cartao de Credito,23.8,4,0,0,Sim,Nao,Nao
+CLI0362,36,Feminino,Casado,24,Padrao,43.79,Cartao de Credito,2.1,2,4,3,Nao,Nao,Sim
+CLI0363,39,Feminino,Solteiro,18,Padrao,40.77,Boleto,12.2,2,3,0,Nao,Nao,Sim
+CLI0364,46,Masculino,Solteiro,4,Premium,61.52,Pix,12.0,5,1,1,Nao,Nao,Nao
+CLI0365,16,Masculino,Solteiro,12,Padrao,38.48,Boleto,5.1,6,2,0,Sim,Nao,Sim
+CLI0366,31,Feminino,Casado,28,Padrao,39.50,Boleto,7.6,6,2,1,Sim,Sim,Nao
+CLI0367,46,Masculino,Solteiro,24,Padrao,35.05,Debito Automatico,13.3,6,1,1,Sim,Nao,Nao
+CLI0368,31,Masculino,Divorciado,9,Basico,25.75,Pix,10.4,6,4,1,Nao,Sim,Nao
+CLI0369,27,Feminino,Solteiro,15,Premium,55.10,Boleto,16.5,6,0,1,Nao,Nao,Nao
+CLI0370,28,Masculino,Solteiro,0,Padrao,39.85,Boleto,7.2,1,0,0,Nao,Nao,Sim
+CLI0371,39,Masculino,Solteiro,36,Padrao,36.10,Boleto,7.0,2,3,1,Sim,Sim,Nao
+CLI0372,28,Feminino,Solteiro,4,Premium,60.50,Boleto,11.8,4,0,1,Nao,Nao,Sim
+CLI0373,25,Feminino,Solteiro,19,Basico,23.96,Cartao de Credito,15.8,1,2,3,Nao,Sim,Sim
+CLI0374,33,Masculino,Divorciado,23,Premium,56.58,Pix,21.8,5,1,2,Sim,Nao,Nao
+CLI0375,40,Feminino,Solteiro,28,Padrao,37.61,Debito Automatico,3.7,6,0,1,Nao,Nao,Sim
+CLI0376,45,Masculino,Casado,1,Basico,26.53,Cartao de Credito,10.2,2,0,1,Sim,Nao,Nao
+CLI0377,16,Feminino,Solteiro,0,Basico,25.37,Cartao de Credito,5.0,6,0,0,Nao,Nao,Sim
+CLI0378,26,Masculino,Divorciado,5,Padrao,44.29,Debito Automatico,0.0,4,1,0,Nao,Nao,Nao
+CLI0379,41,Feminino,Casado,1,Premium,59.11,Pix,7.6,6,0,0,Sim,Nao,Nao
+CLI0380,27,Feminino,Solteiro,27,Premium,61.19,Pix,15.4,5,0,1,Nao,Sim,Nao
+CLI0381,21,Masculino,Casado,2,Padrao,38.90,Cartao de Credito,6.3,4,2,1,Nao,Nao,Sim
+CLI0382,17,Feminino,Casado,1,Basico,26.41,Cartao de Credito,3.7,1,1,2,Sim,Nao,Sim
+CLI0383,16,Masculino,Solteiro,21,Basico,26.05,Boleto,12.1,5,2,1,Nao,Sim,Nao
+CLI0384,16,Masculino,Casado,22,Basico,22.62,Cartao de Credito,16.7,1,0,1,Sim,Nao,Nao
+CLI0385,23,Feminino,Solteiro,12,Premium,60.58,Pix,12.2,3,1,1,Nao,Nao,Nao
+CLI0386,26,Feminino,Solteiro,1,Padrao,35.21,Boleto,15.4,3,2,0,Nao,Nao,Sim
+CLI0387,32,Masculino,Casado,3,Padrao,42.89,Cartao de Credito,0.0,5,1,0,Nao,Nao,Nao
+CLI0388,58,Masculino,Casado,3,Padrao,42.92,Boleto,12.9,2,2,1,Nao,Nao,Sim
+CLI0389,16,Masculino,Solteiro,10,Premium,59.24,Boleto,7.6,2,0,1,Nao,Nao,Sim
+CLI0390,49,Masculino,Casado,34,Basico,27.31,Debito Automatico,0.0,4,2,1,Nao,Sim,Nao
+CLI0391,33,Masculino,Casado,24,Basico,25.22,Cartao de Credito,2.9,1,1,0,Nao,Nao,Sim
+CLI0392,18,Feminino,Solteiro,34,Basico,20.06,Debito Automatico,8.0,6,1,1,Sim,Nao,Nao
+CLI0393,43,Feminino,Solteiro,9,Premium,56.56,Cartao de Credito,0.4,1,1,1,Nao,Nao,Sim
+CLI0394,19,Feminino,Casado,3,Premium,60.32,Pix,5.9,5,1,0,Nao,Sim,Sim
+CLI0395,34,Masculino,Solteiro,22,Padrao,40.05,Cartao de Credito,0.0,3,1,1,Sim,Nao,Nao
+CLI0396,29,Masculino,Solteiro,26,Premium,62.45,Pix,13.6,3,4,1,Nao,Nao,Nao
+CLI0397,33,Feminino,Solteiro,9,Padrao,39.96,Boleto,0.0,5,3,0,Nao,Nao,Sim
+CLI0398,16,Feminino,Casado,8,Premium,60.91,Boleto,14.6,6,2,0,Sim,Nao,Nao
+CLI0399,38,Masculino,Solteiro,24,Padrao,39.09,Pix,0.0,6,1,2,Nao,Nao,Sim
+CLI0400,41,Masculino,Solteiro,33,Basico,26.74,Pix,5.1,4,1,0,Nao,Nao,Sim
+CLI0401,17,Masculino,Solteiro,0,Basico,23.12,Boleto,14.1,4,12,1,Sim,Nao,Sim
+CLI0402,16,Masculino,Solteiro,4,Premium,58.58,Cartao de Credito,0.3,6,1,1,Nao,Nao,Sim
+CLI0403,16,Masculino,Casado,1,Padrao,40.18,Boleto,2.0,1,3,2,Nao,Nao,Sim
+CLI0404,36,Feminino,Casado,28,Padrao,41.56,Debito Automatico,11.5,2,1,1,Sim,Nao,Nao
+CLI0405,43,Feminino,Casado,30,Padrao,37.04,Cartao de Credito,14.6,6,1,1,Nao,Sim,Nao
+CLI0406,33,Masculino,Solteiro,1,Premium,59.04,Debito Automatico,14.2,6,1,0,Sim,Nao,Nao
+CLI0407,46,Feminino,Solteiro,11,Basico,24.91,Debito Automatico,2.0,3,1,0,Sim,Nao,Nao
+CLI0408,16,Feminino,Casado,4,Basico,24.21,Debito Automatico,8.5,1,0,1,Nao,Nao,Sim
+CLI0409,18,Masculino,Casado,3,Padrao,39.95,Boleto,0.6,2,1,1,Nao,Sim,Nao
+CLI0410,27,Masculino,Solteiro,18,Basico,23.96,Cartao de Credito,9.0,5,2,2,Sim,Nao,Nao
+CLI0411,16,Masculino,Casado,14,Premium,60.27,Boleto,9.1,5,1,1,Nao,Sim,Nao
+CLI0412,20,Feminino,Casado,7,Padrao,37.79,Boleto,8.3,4,0,1,Nao,Nao,Nao
+CLI0413,20,Feminino,Divorciado,2,Premium,63.50,Boleto,19.3,1,0,1,Nao,Nao,Nao
+CLI0414,31,Feminino,Solteiro,17,Premium,59.64,Debito Automatico,14.2,3,3,2,Nao,Sim,Nao
+CLI0415,32,Masculino,Solteiro,16,Premium,60.07,Cartao de Credito,9.2,5,1,0,Nao,Nao,Nao
+CLI0416,28,Feminino,Casado,22,Basico,25.12,Cartao de Credito,7.4,3,3,1,Nao,Sim,Nao
+CLI0417,16,Feminino,Solteiro,1,Premium,58.01,Cartao de Credito,12.9,6,0,0,Nao,Nao,Sim
+CLI0418,34,Feminino,Solteiro,14,Basico,24.16,Cartao de Credito,9.0,2,0,0,Nao,Nao,Nao
+CLI0419,37,Feminino,Solteiro,8,Basico,27.60,Cartao de Credito,6.3,4,1,1,Sim,Nao,Nao
+CLI0420,21,Masculino,Casado,12,Padrao,39.68,Pix,15.5,3,4,0,Nao,Nao,Sim
+CLI0421,36,Masculino,Solteiro,22,Premium,58.21,Cartao de Credito,3.8,6,0,1,Nao,Nao,Sim
+CLI0422,29,Masculino,Casado,5,Basico,29.18,Debito Automatico,6.4,2,2,1,Nao,Sim,Nao
+CLI0423,40,Masculino,Solteiro,7,Basico,23.15,Boleto,3.9,4,1,1,Nao,Nao,Sim
+CLI0424,16,Masculino,Solteiro,4,Basico,23.43,Boleto,22.8,1,2,0,Nao,Sim,Nao
+CLI0425,30,Feminino,Solteiro,1,Padrao,38.91,Cartao de Credito,0.0,5,1,2,Nao,Nao,Sim
+CLI0426,46,Feminino,Divorciado,14,Padrao,39.67,Debito Automatico,14.2,2,2,0,Sim,Nao,Nao
+CLI0427,20,Feminino,Solteiro,12,Basico,27.96,Cartao de Credito,9.4,6,1,1,Nao,Nao,Nao
+CLI0428,44,Feminino,Solteiro,9,Basico,22.35,Cartao de Credito,0.0,3,0,1,Nao,Nao,Sim
+CLI0429,32,Feminino,Casado,4,Premium,63.02,Boleto,3.3,6,1,2,Nao,Nao,Sim
+CLI0430,31,Masculino,Casado,13,Premium,59.28,Debito Automatico,9.8,5,1,0,Sim,Nao,Nao
+CLI0431,16,Feminino,Solteiro,40,Premium,57.11,Cartao de Credito,6.2,3,1,2,Nao,Nao,Sim
+CLI0432,27,Feminino,Solteiro,27,Premium,60.94,Pix,5.2,1,1,0,Nao,Nao,Nao
+CLI0433,43,Masculino,Divorciado,24,Padrao,34.89,Debito Automatico,15.4,6,0,2,Sim,Sim,Nao
+CLI0434,33,Feminino,Solteiro,19,Basico,26.89,Cartao de Credito,2.7,2,4,2,Nao,Sim,Sim
+CLI0435,35,Masculino,Casado,22,Basico,24.92,Cartao de Credito,5.3,3,2,1,Nao,Nao,Nao
+CLI0436,44,Masculino,Solteiro,33,Padrao,40.33,Debito Automatico,0.0,3,0,0,Nao,Sim,Nao
+CLI0437,24,Masculino,Casado,13,Premium,57.75,Debito Automatico,24.8,4,0,0,Nao,Sim,Nao
+CLI0438,30,Feminino,Solteiro,26,Basico,26.98,Pix,1.0,5,2,0,Nao,Sim,Sim
+CLI0439,32,Masculino,Casado,2,Basico,28.71,Cartao de Credito,5.5,1,4,1,Nao,Nao,Sim
+CLI0440,32,Masculino,Solteiro,0,Basico,24.34,Debito Automatico,8.9,5,14,0,Nao,Sim,Sim
+CLI0441,41,Feminino,Casado,12,Basico,19.75,Cartao de Credito,18.3,3,1,1,Nao,Nao,Sim
+CLI0442,16,Masculino,Solteiro,52,Basico,24.53,Cartao de Credito,8.4,6,2,1,Nao,Nao,Nao
+CLI0443,16,Masculino,Solteiro,2,Premium,59.15,Cartao de Credito,12.4,6,1,1,Nao,Sim,Nao
+CLI0444,39,Masculino,Casado,1,Basico,24.25,Debito Automatico,11.1,1,2,2,Sim,Sim,Nao
+CLI0445,49,Masculino,Casado,5,Basico,24.75,Boleto,20.5,1,3,1,Sim,Nao,Nao
+CLI0446,44,Feminino,Solteiro,15,Padrao,40.87,Debito Automatico,1.8,1,2,0,Sim,Nao,Sim
+CLI0447,16,Masculino,Solteiro,27,Premium,57.80,Debito Automatico,2.6,2,1,1,Nao,Nao,Sim
+CLI0448,49,Feminino,Solteiro,21,Padrao,39.72,Debito Automatico,4.9,6,2,1,Sim,Nao,Nao
+CLI0449,32,Feminino,Solteiro,3,Premium,58.39,Pix,14.3,1,1,2,Nao,Sim,Sim
+CLI0450,16,Feminino,Casado,31,Basico,20.45,Cartao de Credito,7.3,3,1,0,Nao,Nao,Nao
+CLI0451,25,Masculino,Casado,1,Padrao,37.02,Boleto,12.0,4,2,2,Sim,Nao,Sim
+CLI0452,16,Masculino,Casado,20,Padrao,43.75,Cartao de Credito,8.9,5,4,2,Sim,Nao,Sim
+CLI0453,37,Masculino,Solteiro,42,Padrao,39.81,Boleto,6.2,6,0,0,Nao,Nao,Nao
+CLI0454,20,Feminino,Solteiro,17,Padrao,40.95,Debito Automatico,8.5,1,0,0,Nao,Nao,Nao
+CLI0455,38,Masculino,Solteiro,24,Padrao,39.54,Cartao de Credito,12.9,4,1,1,Nao,Nao,Sim
+CLI0456,32,Masculino,Solteiro,23,Basico,25.35,Boleto,0.0,4,4,0,Nao,Sim,Sim
+CLI0457,16,Masculino,Solteiro,1,Premium,59.95,Boleto,0.0,1,3,0,Nao,Nao,Sim
+CLI0458,26,Masculino,Solteiro,10,Basico,24.78,Cartao de Credito,10.4,1,1,3,Nao,Nao,Sim
+CLI0459,56,Feminino,Divorciado,17,Padrao,41.80,Debito Automatico,12.3,4,0,0,Nao,Nao,Nao
+CLI0460,31,Feminino,Solteiro,33,Basico,25.54,Cartao de Credito,0.0,6,2,1,Nao,Nao,Sim
+CLI0461,22,Masculino,Solteiro,2,Basico,25.38,Debito Automatico,14.6,4,1,1,Sim,Nao,Sim
+CLI0462,36,Masculino,Casado,0,Basico,23.90,Boleto,5.2,6,3,1,Nao,Nao,Sim
+CLI0463,36,Feminino,Divorciado,20,Padrao,37.81,Cartao de Credito,13.4,1,0,1,Nao,Nao,Sim
+CLI0464,61,Masculino,Divorciado,2,Premium,59.30,Cartao de Credito,21.7,1,4,3,Nao,Nao,Sim
+CLI0465,16,Feminino,Solteiro,44,Basico,25.53,Pix,10.2,6,0,0,Nao,Sim,Nao
+CLI0466,44,Feminino,Solteiro,10,Basico,27.30,Debito Automatico,7.6,2,2,1,Nao,Nao,Nao
+CLI0467,54,Feminino,Casado,9,Basico,198.59,Debito Automatico,3.4,1,0,0,Sim,Nao,Nao
+CLI0468,23,Masculino,Casado,22,Basico,26.83,Boleto,6.8,6,2,0,Nao,Nao,Nao
+CLI0469,16,Masculino,Casado,9,Basico,22.76,Cartao de Credito,5.4,5,0,2,Nao,Sim,Nao
+CLI0470,46,Feminino,Divorciado,7,Padrao,39.94,Boleto,3.3,6,2,1,Nao,Nao,Nao
+CLI0471,53,Feminino,Solteiro,23,Premium,56.90,Boleto,13.0,6,1,0,Nao,Nao,Nao
+CLI0472,32,Masculino,Solteiro,4,Premium,61.44,Boleto,14.2,6,3,1,Nao,Sim,Sim
+CLI0473,28,Masculino,Divorciado,5,Premium,59.58,Debito Automatico,9.9,3,1,1,Nao,Nao,Nao
+CLI0474,28,Feminino,Casado,14,Padrao,41.76,Pix,5.2,3,1,1,Nao,Nao,Nao
+CLI0475,48,Feminino,Solteiro,11,Padrao,40.52,Boleto,9.2,2,4,1,Sim,Nao,Sim
+CLI0476,16,Masculino,Divorciado,24,Premium,57.00,Debito Automatico,6.1,2,0,1,Sim,Nao,Nao
+CLI0477,30,Feminino,Solteiro,41,Padrao,38.11,Cartao de Credito,4.7,3,1,2,Nao,Nao,Sim
+CLI0478,16,Masculino,Casado,16,Padrao,39.52,Boleto,3.8,3,0,1,Nao,Nao,Sim
+CLI0479,39,Masculino,Casado,18,Padrao,42.89,Debito Automatico,8.3,1,1,1,Sim,Nao,Nao
+CLI0480,25,Masculino,Divorciado,16,Padrao,42.07,Cartao de Credito,11.5,3,1,1,Nao,Nao,Sim
+CLI0481,36,Feminino,Solteiro,39,Basico,28.57,Cartao de Credito,16.4,1,0,1,Sim,Nao,Nao
+CLI0482,20,Masculino,Casado,8,Premium,56.45,Debito Automatico,13.9,2,1,0,Sim,Nao,Nao
+CLI0483,33,Masculino,Divorciado,18,Padrao,42.50,Boleto,9.6,5,0,1,Sim,Sim,Nao
+CLI0484,26,Masculino,Divorciado,2,Premium,57.05,Pix,1.3,1,1,0,Nao,Sim,Sim
+CLI0485,18,Masculino,Casado,6,Padrao,39.91,Debito Automatico,11.6,6,1,2,Sim,Nao,Sim
+CLI0486,31,Feminino,Solteiro,19,Padrao,39.98,Debito Automatico,6.8,5,4,1,Sim,Nao,Sim
+CLI0487,24,Masculino,Casado,3,Premium,63.95,Pix,16.6,4,1,1,Nao,Sim,Sim
+CLI0488,25,Masculino,Solteiro,10,Basico,22.14,Pix,8.0,5,1,1,Nao,Nao,Sim
+CLI0489,40,Feminino,Solteiro,8,Basico,25.17,Boleto,4.1,3,0,2,Sim,Sim,Sim
+CLI0490,33,Feminino,Casado,3,Padrao,40.33,Boleto,0.0,3,1,0,Sim,Nao,Nao
+CLI0491,40,Feminino,Casado,2,Premium,61.43,Debito Automatico,2.8,2,2,2,Sim,Nao,Sim
+CLI0492,26,Masculino,Casado,1,Padrao,43.27,Pix,9.1,1,2,2,Nao,Nao,Sim
+CLI0493,39,Feminino,Solteiro,5,Basico,22.58,Cartao de Credito,8.7,3,0,1,Nao,Nao,Sim
+CLI0494,50,Feminino,Solteiro,8,Basico,20.09,Cartao de Credito,5.2,6,1,0,Nao,Nao,Sim
+CLI0495,27,Feminino,Casado,2,Premium,61.56,Boleto,14.2,1,1,0,Nao,Nao,Sim
+CLI0496,26,Masculino,Casado,30,Padrao,39.40,Boleto,12.1,5,2,0,Nao,Nao,Nao
+CLI0497,18,Masculino,Solteiro,6,Padrao,41.48,Cartao de Credito,5.2,6,2,1,Nao,Nao,Sim
+CLI0498,36,Masculino,Solteiro,24,Padrao,40.44,Boleto,9.6,4,0,0,Nao,Nao,Nao
+CLI0499,16,Feminino,Casado,4,Basico,24.87,Cartao de Credito,22.8,3,3,1,Nao,Nao,Nao
+CLI0500,21,Feminino,Casado,20,Premium,61.99,Cartao de Credito,7.9,1,2,0,Nao,Nao,Sim
+CLI0501,29,Feminino,Solteiro,1,Basico,27.98,Cartao de Credito,4.7,1,1,1,Nao,Nao,Sim
+CLI0502,34,Feminino,Solteiro,0,Padrao,39.74,Boleto,0.0,3,0,0,Sim,Nao,Sim
+CLI0503,35,Feminino,Solteiro,9,Basico,24.75,Cartao de Credito,22.3,1,2,1,Nao,Nao,Sim
+CLI0504,34,Masculino,Divorciado,6,Padrao,40.39,Cartao de Credito,11.7,5,0,0,Nao,Nao,Nao
+CLI0505,26,Feminino,Solteiro,27,Padrao,39.80,Cartao de Credito,11.5,4,2,3,Sim,Nao,Nao
+CLI0506,16,Masculino,Solteiro,18,Padrao,46.07,Debito Automatico,21.6,5,1,2,Nao,Sim,Nao
+CLI0507,49,Masculino,Casado,23,Premium,61.45,Pix,15.2,6,1,1,Nao,Sim,Nao
+CLI0508,32,Feminino,Solteiro,23,Basico,22.69,Cartao de Credito,16.5,1,1,0,Nao,Sim,Nao
+CLI0509,26,Masculino,Solteiro,16,Premium,64.88,Pix,14.1,6,1,1,Nao,Nao,Nao
+CLI0510,38,Feminino,Solteiro,17,Basico,24.88,Cartao de Credito,14.0,6,3,2,Sim,Nao,Sim
+CLI0511,42,Masculino,Casado,1,Basico,25.19,Boleto,8.8,4,3,1,Sim,Sim,Nao
+CLI0512,36,Feminino,Solteiro,26,Premium,60.66,Debito Automatico,12.3,2,1,1,Nao,Sim,Nao
+CLI0513,34,Masculino,Solteiro,6,Basico,25.90,Pix,12.8,4,1,1,Sim,Sim,Nao
+CLI0514,22,Masculino,Casado,15,Padrao,40.73,Boleto,8.8,1,1,0,Sim,Sim,Nao
+CLI0515,25,Masculino,Divorciado,18,Padrao,42.76,Debito Automatico,12.9,4,1,1,Nao,Nao,Nao
+CLI0516,23,Masculino,Casado,3,Padrao,39.33,Debito Automatico,5.1,3,3,0,Nao,Nao,Sim
+CLI0517,33,Masculino,Casado,11,Basico,24.03,Boleto,0.0,4,4,1,Nao,Sim,Nao
+CLI0518,43,Masculino,Casado,16,Premium,58.50,Cartao de Credito,22.7,5,2,0,Sim,Nao,Sim
+CLI0519,43,Feminino,Casado,24,Padrao,37.81,Cartao de Credito,16.4,4,5,0,Nao,Nao,Nao
+CLI0520,27,Masculino,Casado,8,Padrao,38.88,Pix,10.8,5,1,2,Nao,Nao,Sim
+CLI0521,19,Masculino,Casado,42,Basico,28.37,Boleto,9.0,2,1,1,Sim,Nao,Nao
+CLI0522,37,Feminino,Solteiro,6,Padrao,40.84,Cartao de Credito,21.5,5,0,1,Nao,Nao,Nao
+CLI0523,31,Feminino,Casado,20,Padrao,36.30,Debito Automatico,9.7,3,2,0,Nao,Nao,Nao
+CLI0524,37,Feminino,Solteiro,11,Padrao,40.12,Cartao de Credito,0.5,5,0,1,Sim,Sim,Sim
+CLI0525,39,Feminino,Casado,20,Padrao,41.37,Cartao de Credito,0.0,6,3,1,Nao,Sim,Nao
+CLI0526,33,Feminino,Solteiro,18,Premium,59.60,Debito Automatico,21.9,1,2,1,Nao,Nao,Sim
+CLI0527,33,Masculino,Solteiro,18,Basico,173.96,Cartao de Credito,11.8,5,1,1,Nao,Nao,Sim
+CLI0528,23,Feminino,Solteiro,6,Basico,23.84,Debito Automatico,10.2,1,4,1,Nao,Nao,Sim
+CLI0529,16,Masculino,Solteiro,23,Premium,58.72,Boleto,18.4,3,2,0,Sim,Sim,Nao
+CLI0530,38,Masculino,Solteiro,3,Basico,22.65,Debito Automatico,0.6,5,0,1,Sim,Nao,Sim
+CLI0531,31,Masculino,Divorciado,15,Padrao,41.91,Boleto,11.5,1,1,2,Sim,Sim,Nao
+CLI0532,27,Feminino,Casado,40,Premium,60.37,Cartao de Credito,15.3,5,1,1,Nao,Nao,Sim
+CLI0533,16,Feminino,Divorciado,26,Premium,59.80,Pix,8.5,1,1,2,Sim,Sim,Sim
+CLI0534,16,Feminino,Divorciado,5,Padrao,41.24,Pix,3.8,3,0,1,Sim,Nao,Nao
+CLI0535,24,Masculino,Divorciado,10,Premium,60.40,Pix,14.3,3,2,1,Nao,Nao,Nao
+CLI0536,47,Feminino,Solteiro,31,Padrao,42.70,Boleto,8.0,4,1,2,Nao,Sim,Sim
+CLI0537,45,Masculino,Divorciado,7,Basico,26.12,Boleto,0.4,6,1,1,Nao,Nao,Nao
+CLI0538,25,Feminino,Solteiro,6,Padrao,41.63,Boleto,11.2,3,0,2,Nao,Sim,Nao
+CLI0539,18,Masculino,Divorciado,21,Premium,54.58,Pix,2.2,5,1,0,Nao,Nao,Sim
+CLI0540,17,Masculino,Casado,36,Padrao,38.30,Boleto,13.0,4,3,1,Nao,Nao,Sim
+CLI0541,44,Feminino,Casado,32,Basico,25.64,Cartao de Credito,2.3,1,2,1,Sim,Nao,Sim
+CLI0542,16,Feminino,Casado,2,Basico,24.87,Boleto,5.7,4,0,0,Nao,Nao,Sim
+CLI0543,44,Feminino,Solteiro,11,Padrao,41.54,Boleto,10.2,1,1,1,Sim,Nao,Nao
+CLI0544,16,Masculino,Solteiro,6,Premium,55.51,Debito Automatico,10.6,6,1,0,Nao,Sim,Nao
+CLI0545,30,Feminino,Solteiro,16,Premium,59.69,Pix,5.2,1,1,0,Nao,Sim,Nao
+CLI0546,30,Feminino,Solteiro,2,Padrao,42.71,Cartao de Credito,3.4,6,3,0,Sim,Nao,Sim
+CLI0547,25,Feminino,Casado,1,Basico,25.80,Pix,8.0,1,1,1,Nao,Sim,Nao
+CLI0548,24,Masculino,Casado,22,Basico,24.73,Cartao de Credito,8.0,6,0,2,Nao,Sim,Sim
+CLI0549,28,Feminino,Solteiro,7,Basico,26.45,Debito Automatico,11.6,1,0,1,Nao,Sim,Sim
+CLI0550,29,Masculino,Solteiro,60,Basico,22.88,Cartao de Credito,4.4,4,0,0,Sim,Sim,Sim
+CLI0551,33,Masculino,Casado,30,Premium,62.87,Boleto,14.6,2,0,1,Sim,Nao,Nao
+CLI0552,37,Masculino,Casado,3,Padrao,40.33,Debito Automatico,0.0,1,1,1,Sim,Nao,Nao
+CLI0553,44,Masculino,Casado,6,Padrao,37.58,Cartao de Credito,0.0,5,4,1,Sim,Nao,Sim
+CLI0554,29,Feminino,Solteiro,7,Premium,57.74,Debito Automatico,7.2,2,1,1,Sim,Sim,Nao
+CLI0555,30,Feminino,Solteiro,44,Padrao,37.82,Cartao de Credito,12.8,4,1,2,Nao,Nao,Nao
+CLI0556,22,Masculino,Casado,17,Padrao,43.07,Debito Automatico,10.4,2,2,1,Nao,Nao,Sim
+CLI0557,43,Masculino,Divorciado,14,Padrao,37.58,Pix,10.8,5,1,0,Nao,Sim,Nao
+CLI0558,23,Feminino,Casado,35,Premium,58.60,Cartao de Credito,4.0,5,4,1,Sim,Sim,Sim
+CLI0559,33,Feminino,Solteiro,4,Basico,24.46,Debito Automatico,4.5,6,3,1,Sim,Nao,Nao
+CLI0560,16,Masculino,Casado,15,Premium,54.98,Debito Automatico,12.9,6,1,0,Nao,Sim,Nao
+CLI0561,16,Feminino,Casado,14,Padrao,43.67,Cartao de Credito,4.3,6,4,1,Sim,Nao,Nao
+CLI0562,16,Masculino,Solteiro,31,Premium,58.58,Debito Automatico,18.3,2,1,1,Nao,Sim,Nao
+CLI0563,35,Masculino,Solteiro,2,Basico,25.91,Cartao de Credito,4.0,2,1,1,Sim,Nao,Sim
+CLI0564,16,Masculino,Divorciado,22,Basico,25.97,Cartao de Credito,12.5,1,0,1,Sim,Nao,Nao
+CLI0565,27,Feminino,Casado,12,Padrao,43.48,Cartao de Credito,16.8,6,0,0,Nao,Nao,Nao
+CLI0566,16,Masculino,Solteiro,10,Padrao,43.67,Cartao de Credito,12.5,1,1,2,Sim,Sim,Nao
+CLI0567,46,Masculino,Casado,5,Padrao,39.94,Cartao de Credito,7.1,1,1,1,Nao,Nao,Nao
+CLI0568,35,Masculino,Divorciado,35,Padrao,39.06,Cartao de Credito,25.9,1,1,1,Sim,Sim,Nao
+CLI0569,24,Feminino,Casado,19,Basico,22.77,Cartao de Credito,0.0,2,0,1,Nao,Sim,Nao
+CLI0570,32,Feminino,Solteiro,23,Premium,59.81,Boleto,3.0,3,0,1,Nao,Nao,Sim
+CLI0571,32,Masculino,Solteiro,21,Premium,58.87,Debito Automatico,14.2,3,3,0,Nao,Nao,Nao
+CLI0572,27,Feminino,Divorciado,21,Padrao,41.64,Debito Automatico,12.7,6,0,1,Nao,Sim,Sim
+CLI0573,34,Feminino,Solteiro,10,Premium,61.04,Cartao de Credito,12.9,1,1,0,Nao,Sim,Nao
+CLI0574,18,Feminino,Divorciado,16,Basico,24.73,Debito Automatico,11.1,3,0,1,Nao,Sim,Nao
+CLI0575,28,Masculino,Solteiro,3,Basico,24.34,Debito Automatico,3.4,1,0,1,Nao,Nao,Sim
+CLI0576,25,Feminino,Solteiro,14,Padrao,41.85,Boleto,0.0,4,0,1,Nao,Sim,Sim
+CLI0577,23,Masculino,Casado,18,Padrao,39.26,Boleto,9.8,2,1,1,Nao,Nao,Sim
+CLI0578,30,Masculino,Divorciado,11,Padrao,35.87,Cartao de Credito,14.8,5,1,0,Nao,Sim,Nao
+CLI0579,29,Masculino,Casado,3,Basico,24.21,Debito Automatico,0.0,6,1,1,Nao,Nao,Nao
+CLI0580,16,Masculino,Solteiro,19,Premium,58.63,Boleto,6.2,1,0,1,Nao,Sim,Sim
+CLI0581,25,Feminino,Divorciado,20,Basico,27.50,Cartao de Credito,12.9,5,1,0,Nao,Nao,Nao
+CLI0582,22,Masculino,Solteiro,1,Premium,58.84,Pix,16.4,2,2,0,Nao,Sim,Sim
+CLI0583,16,Masculino,Solteiro,6,Basico,26.27,Debito Automatico,10.0,4,1,0,Nao,Nao,Nao
+CLI0584,31,Feminino,Divorciado,8,Padrao,39.89,Cartao de Credito,0.0,2,0,1,Nao,Nao,Sim
+CLI0585,29,Masculino,Divorciado,13,Basico,22.95,Pix,0.5,5,2,1,Nao,Nao,Sim
+CLI0586,42,Masculino,Divorciado,19,Padrao,39.61,Boleto,6.7,6,0,1,Nao,Nao,Nao
+CLI0587,37,Masculino,Solteiro,17,Basico,25.86,Debito Automatico,12.9,5,1,0,Nao,Nao,Nao
+CLI0588,20,Feminino,Casado,18,Padrao,36.50,Debito Automatico,6.0,2,0,2,Nao,Nao,Sim
+CLI0589,48,Masculino,Divorciado,14,Basico,24.09,Cartao de Credito,10.0,5,2,2,Sim,Sim,Nao
+CLI0590,26,Feminino,Solteiro,10,Basico,23.93,Pix,6.5,4,1,0,Nao,Nao,Sim
+CLI0591,18,Masculino,Casado,5,Padrao,41.33,Pix,3.9,4,1,2,Nao,Sim,Sim
+CLI0592,16,Feminino,Solteiro,4,Basico,25.21,Boleto,15.1,4,1,1,Sim,Sim,Nao
+CLI0593,29,Feminino,Divorciado,21,Basico,22.99,Debito Automatico,17.3,3,1,1,Sim,Sim,Nao
+CLI0594,19,Masculino,Casado,6,Padrao,38.22,Debito Automatico,5.4,6,2,1,Nao,Sim,Nao
+CLI0595,26,Feminino,Divorciado,21,Basico,23.06,Pix,6.4,2,1,1,Nao,Nao,Sim
+CLI0596,20,Feminino,Solteiro,10,Basico,27.85,Boleto,9.7,5,1,0,Nao,Nao,Nao
+CLI0597,27,Feminino,Solteiro,8,Basico,25.72,Cartao de Credito,5.6,2,2,0,Sim,Nao,Nao
+CLI0598,38,Masculino,Casado,8,Padrao,39.42,Cartao de Credito,4.7,3,1,1,Sim,Sim,Nao
+CLI0599,34,Masculino,Solteiro,14,Padrao,37.29,Debito Automatico,7.4,5,1,1,Nao,Nao,Sim
+CLI0600,39,Feminino,Casado,11,Padrao,40.70,Cartao de Credito,19.6,3,0,2,Sim,Nao,Nao
+CLI0601,54,Feminino,Casado,6,Basico,21.00,Cartao de Credito,11.2,5,0,2,Nao,Nao,Nao
+CLI0602,50,Masculino,Solteiro,9,Premium,56.07,Debito Automatico,15.7,2,1,1,Sim,Nao,Sim
+CLI0603,37,Feminino,Casado,8,Premium,56.63,Debito Automatico,16.0,4,3,1,Nao,Sim,Nao
+CLI0604,23,Feminino,Solteiro,10,Padrao,37.51,Cartao de Credito,5.2,2,1,0,Sim,Sim,Nao
+CLI0605,41,Masculino,Casado,1,Basico,21.92,Debito Automatico,2.4,2,2,1,Nao,Nao,Sim
+CLI0606,30,Masculino,Casado,24,Basico,25.02,Pix,13.2,3,0,1,Nao,Nao,Nao
+CLI0607,29,Feminino,Casado,10,Basico,26.10,Boleto,13.2,5,2,2,Nao,Sim,Sim
+CLI0608,18,Masculino,Casado,11,Basico,25.09,Boleto,6.3,4,1,1,Nao,Nao,Sim
+CLI0609,33,Masculino,Solteiro,7,Padrao,39.03,Cartao de Credito,0.0,2,2,2,Nao,Nao,Nao
+CLI0610,47,Feminino,Solteiro,7,Padrao,38.85,Cartao de Credito,9.2,3,1,1,Nao,Nao,Sim
+CLI0611,30,Masculino,Divorciado,19,Basico,25.95,Boleto,14.7,3,1,1,Nao,Nao,Nao
+CLI0612,41,Masculino,Divorciado,13,Padrao,40.20,Cartao de Credito,4.2,2,2,2,Nao,Nao,Sim
+CLI0613,52,Feminino,Casado,20,Basico,24.70,Debito Automatico,14.9,5,0,1,Nao,Nao,Nao
+CLI0614,30,Feminino,Divorciado,4,Basico,25.48,Debito Automatico,3.9,4,1,0,Nao,Sim,Sim
+CLI0615,28,Feminino,Divorciado,29,Basico,27.09,Debito Automatico,13.7,1,1,2,Nao,Nao,Sim
+CLI0616,19,Masculino,Casado,12,Padrao,39.23,Boleto,12.8,6,2,1,Sim,Nao,Sim
+CLI0617,61,Masculino,Casado,17,Premium,60.16,Debito Automatico,19.1,1,1,0,Nao,Nao,Nao
+CLI0618,35,Feminino,Casado,11,Premium,58.76,Debito Automatico,10.2,3,1,1,Nao,Nao,Sim
+CLI0619,25,Feminino,Solteiro,20,Basico,22.92,Cartao de Credito,4.3,5,0,1,Sim,Nao,Nao
+CLI0620,22,Masculino,Solteiro,13,Padrao,37.17,Cartao de Credito,5.7,5,0,0,Sim,Nao,Nao
+CLI0621,55,Feminino,Solteiro,22,Basico,19.47,Boleto,0.0,5,1,1,Sim,Sim,Nao
+CLI0622,35,Feminino,Solteiro,1,Basico,27.12,Cartao de Credito,7.0,1,0,0,Nao,Sim,Sim
+CLI0623,49,Masculino,Solteiro,5,Padrao,40.98,Boleto,5.6,5,1,1,Nao,Nao,Sim
+CLI0624,21,Feminino,Casado,7,Padrao,42.13,Debito Automatico,12.5,4,0,1,Nao,Nao,Nao
+CLI0625,16,Masculino,Solteiro,34,Premium,59.71,Debito Automatico,5.6,5,1,0,Sim,Nao,Nao
+CLI0626,16,Feminino,Divorciado,11,Padrao,39.08,Debito Automatico,5.9,5,0,2,Sim,Sim,Nao
+CLI0627,25,Feminino,Solteiro,2,Basico,21.17,Debito Automatico,1.5,5,1,0,Nao,Sim,Nao
+CLI0628,19,Feminino,Divorciado,3,Padrao,38.12,Cartao de Credito,8.9,2,1,0,Sim,Nao,Nao
+CLI0629,40,Masculino,Casado,20,Padrao,42.31,Pix,0.0,4,2,1,Nao,Nao,Sim
+CLI0630,18,Feminino,Solteiro,17,Premium,58.74,Cartao de Credito,15.0,1,0,2,Nao,Nao,Nao
+CLI0631,16,Feminino,Casado,21,Premium,62.85,Pix,22.3,5,0,2,Nao,Nao,Nao
+CLI0632,19,Feminino,Divorciado,7,Basico,24.39,Pix,12.2,6,1,1,Sim,Nao,Sim
+CLI0633,41,Masculino,Casado,21,Premium,60.86,Debito Automatico,7.9,4,1,1,Nao,Nao,Nao
+CLI0634,22,Masculino,Casado,4,Padrao,37.53,Pix,0.0,3,2,1,Nao,Sim,Sim
+CLI0635,16,Masculino,Divorciado,11,Premium,180.98,Cartao de Credito,19.0,4,2,0,Nao,Nao,Nao
+CLI0636,35,Masculino,Solteiro,15,Premium,63.66,Cartao de Credito,9.9,2,2,0,Sim,Nao,Nao
+CLI0637,36,Feminino,Divorciado,1,Basico,27.69,Debito Automatico,15.8,4,1,1,Nao,Nao,Sim
+CLI0638,33,Feminino,Casado,4,Padrao,40.24,Pix,7.5,5,0,1,Sim,Nao,Nao
+CLI0639,34,Masculino,Solteiro,17,Padrao,40.66,Debito Automatico,6.0,3,0,2,Nao,Nao,Nao
+CLI0640,26,Feminino,Solteiro,5,Basico,26.87,Debito Automatico,10.0,3,0,0,Sim,Nao,Sim
+CLI0641,30,Feminino,Casado,26,Padrao,41.45,Boleto,0.0,6,4,0,Nao,Nao,Sim
+CLI0642,53,Feminino,Divorciado,16,Basico,25.09,Cartao de Credito,9.3,6,0,3,Nao,Sim,Nao
+CLI0643,30,Masculino,Divorciado,13,Padrao,38.85,Debito Automatico,2.7,3,0,0,Sim,Sim,Nao
+CLI0644,26,Masculino,Casado,10,Basico,24.01,Boleto,4.3,3,0,0,Nao,Nao,Sim
+CLI0645,26,Masculino,Casado,14,Padrao,39.75,Cartao de Credito,13.8,1,1,1,Sim,Nao,Nao
+CLI0646,26,Masculino,Casado,17,Premium,56.45,Boleto,7.8,2,1,0,Nao,Nao,Sim
+CLI0647,16,Feminino,Divorciado,5,Padrao,39.94,Debito Automatico,0.0,1,2,1,Nao,Nao,Sim
+CLI0648,39,Masculino,Divorciado,12,Premium,58.29,Cartao de Credito,8.4,5,3,1,Sim,Nao,Nao
+CLI0649,41,Feminino,Solteiro,5,Padrao,39.02,Debito Automatico,0.0,1,1,1,Nao,Nao,Sim
+CLI0650,26,Masculino,Solteiro,4,Padrao,40.66,Debito Automatico,6.9,1,1,0,Nao,Sim,Nao
+CLI0651,25,Masculino,Solteiro,41,Basico,23.41,Cartao de Credito,10.0,6,1,1,Nao,Sim,Nao
+CLI0652,43,Masculino,Solteiro,26,Premium,61.99,Boleto,6.7,3,1,2,Sim,Nao,Nao
+CLI0653,41,Feminino,Casado,5,Padrao,40.06,Boleto,3.3,6,2,2,Sim,Sim,Sim
+CLI0654,20,Feminino,Casado,18,Premium,61.99,Cartao de Credito,15.5,2,2,1,Nao,Sim,Nao
+CLI0655,33,Feminino,Solteiro,9,Padrao,43.27,Debito Automatico,5.0,1,1,1,Nao,Sim,Sim
+CLI0656,29,Feminino,Solteiro,1,Basico,22.32,Debito Automatico,10.3,3,0,0,Sim,Nao,Nao
+CLI0657,27,Masculino,Casado,4,Padrao,39.47,Cartao de Credito,5.8,4,1,1,Nao,Sim,Sim
+CLI0658,44,Masculino,Solteiro,4,Premium,56.77,Cartao de Credito,12.2,3,0,1,Nao,Nao,Sim
+CLI0659,35,Masculino,Solteiro,45,Premium,60.86,Pix,8.3,2,2,1,Nao,Sim,Nao
+CLI0660,53,Masculino,Solteiro,7,Premium,64.26,Cartao de Credito,11.9,2,0,0,Nao,Nao,Sim
+CLI0661,50,Feminino,Solteiro,6,Padrao,39.81,Cartao de Credito,7.1,6,1,1,Sim,Nao,Sim
+CLI0662,39,Feminino,Casado,45,Basico,28.43,Boleto,0.0,3,2,4,Sim,Nao,Sim
+CLI0663,31,Feminino,Casado,41,Padrao,41.39,Debito Automatico,12.1,6,2,0,Nao,Nao,Nao
+CLI0664,33,Feminino,Solteiro,4,Basico,26.32,Debito Automatico,1.5,3,2,1,Sim,Sim,Nao
+CLI0665,34,Masculino,Casado,3,Premium,59.16,Boleto,7.8,5,0,2,Nao,Nao,Sim
+CLI0666,34,Feminino,Casado,7,Premium,58.38,Cartao de Credito,7.0,6,1,1,Sim,Nao,Nao
+CLI0667,35,Masculino,Solteiro,4,Basico,21.41,Cartao de Credito,8.5,5,0,1,Nao,Nao,Nao
+CLI0668,28,Masculino,Divorciado,1,Padrao,38.78,Debito Automatico,21.6,1,1,1,Nao,Sim,Nao
+CLI0669,29,Masculino,Casado,0,Basico,22.97,Debito Automatico,11.9,6,0,0,Nao,Sim,Nao
+CLI0670,32,Feminino,Casado,31,Basico,25.46,Cartao de Credito,12.5,4,1,1,Nao,Nao,Sim
+CLI0671,28,Masculino,Solteiro,14,Padrao,41.71,Pix,8.8,4,1,2,Nao,Sim,Sim
+CLI0672,21,Masculino,Solteiro,12,Basico,23.35,Cartao de Credito,1.5,6,2,0,Nao,Nao,Sim
+CLI0673,29,Feminino,Solteiro,35,Padrao,41.73,Debito Automatico,1.9,2,3,3,Sim,Nao,Sim
+CLI0674,16,Feminino,Casado,4,Premium,55.73,Cartao de Credito,5.0,6,1,1,Nao,Nao,Sim
+CLI0675,44,Feminino,Casado,21,Premium,61.82,Debito Automatico,12.3,6,2,1,Nao,Sim,Nao
+CLI0676,58,Feminino,Casado,11,Basico,28.43,Cartao de Credito,6.7,3,0,2,Nao,Sim,Sim
+CLI0677,37,Feminino,Solteiro,8,Padrao,41.44,Pix,10.4,6,0,3,Sim,Sim,Nao
+CLI0678,45,Masculino,Casado,6,Premium,58.31,Cartao de Credito,0.0,1,0,0,Sim,Nao,Sim
+CLI0679,19,Masculino,Casado,24,Premium,57.48,Debito Automatico,15.7,4,0,2,Nao,Sim,Nao
+CLI0680,27,Masculino,Divorciado,6,Basico,26.49,Cartao de Credito,14.3,2,1,0,Nao,Nao,Nao
+CLI0681,19,Masculino,Solteiro,12,Padrao,37.59,Boleto,0.0,2,3,0,Sim,Nao,Nao
+CLI0682,37,Feminino,Solteiro,16,Premium,57.90,Cartao de Credito,7.7,4,1,1,Sim,Nao,Sim
+CLI0683,33,Feminino,Solteiro,2,Padrao,36.71,Cartao de Credito,7.3,4,2,1,Sim,Nao,Sim
+CLI0684,40,Feminino,Casado,8,Padrao,43.81,Cartao de Credito,8.8,1,1,1,Sim,Sim,Nao
+CLI0685,33,Feminino,Casado,25,Premium,56.23,Cartao de Credito,11.4,6,2,0,Sim,Sim,Nao
+CLI0686,29,Feminino,Casado,4,Basico,25.82,Boleto,0.0,2,2,1,Nao,Nao,Sim
+CLI0687,34,Masculino,Solteiro,3,Premium,56.99,Boleto,17.7,5,0,1,Nao,Nao,Sim
+CLI0688,34,Masculino,Divorciado,19,Basico,24.11,Cartao de Credito,17.0,4,2,1,Nao,Nao,Sim
+CLI0689,29,Masculino,Casado,13,Padrao,36.88,Cartao de Credito,12.8,4,2,1,Sim,Sim,Sim
+CLI0690,16,Feminino,Solteiro,26,Basico,24.25,Debito Automatico,7.2,4,3,2,Nao,Nao,Nao
+CLI0691,46,Feminino,Solteiro,46,Basico,26.05,Cartao de Credito,7.9,5,0,0,Nao,Nao,Nao
+CLI0692,30,Masculino,Casado,1,Padrao,43.69,Boleto,14.4,3,1,0,Nao,Nao,Sim
+CLI0693,36,Feminino,Solteiro,9,Basico,24.75,Cartao de Credito,13.4,3,1,2,Nao,Sim,Nao
+CLI0694,20,Masculino,Solteiro,2,Basico,23.16,Boleto,4.5,4,1,1,Sim,Nao,Nao
+CLI0695,17,Masculino,Casado,10,Basico,19.77,Cartao de Credito,0.9,4,2,2,Nao,Nao,Sim
+CLI0696,26,Feminino,Casado,19,Basico,27.28,Debito Automatico,11.6,5,0,2,Sim,Nao,Nao
+CLI0697,16,Feminino,Solteiro,3,Padrao,35.71,Boleto,15.6,1,2,0,Sim,Nao,Sim
+CLI0698,41,Masculino,Casado,11,Basico,23.50,Cartao de Credito,1.3,4,4,1,Sim,Sim,Sim
+CLI0699,41,Masculino,Casado,12,Basico,24.98,Pix,0.0,4,2,1,Nao,Sim,Sim
+CLI0700,19,Feminino,Solteiro,21,Padrao,38.10,Debito Automatico,5.5,2,2,1,Sim,Nao,Sim
+CLI0701,32,Masculino,Solteiro,3,Padrao,38.61,Boleto,0.0,5,1,0,Nao,Nao,Nao
+CLI0702,60,Masculino,Divorciado,7,Basico,19.45,Cartao de Credito,19.4,1,2,1,Nao,Nao,Nao
+CLI0703,42,Masculino,Casado,20,Padrao,40.20,Boleto,18.1,5,2,0,Nao,Nao,Nao
+CLI0704,33,Masculino,Solteiro,23,Basico,21.53,Cartao de Credito,11.2,2,0,1,Nao,Sim,Nao
+CLI0705,32,Masculino,Casado,3,Padrao,42.24,Cartao de Credito,0.2,4,0,0,Sim,Nao,Sim
+CLI0706,30,Masculino,Solteiro,1,Basico,25.53,Cartao de Credito,134.2,6,1,1,Sim,Nao,Sim
+CLI0707,16,Feminino,Casado,6,Padrao,36.71,Cartao de Credito,12.7,3,0,0,Nao,Nao,Nao
+CLI0708,28,Feminino,Solteiro,10,Premium,63.96,Cartao de Credito,11.7,1,1,1,Sim,Sim,Nao
+CLI0709,34,Masculino,Divorciado,10,Basico,26.41,Boleto,19.5,5,2,0,Sim,Nao,Nao
+CLI0710,47,Masculino,Casado,19,Premium,59.59,Cartao de Credito,3.7,6,2,1,Sim,Sim,Sim
+CLI0711,54,Feminino,Casado,28,Padrao,41.12,Debito Automatico,2.1,4,3,1,Sim,Sim,Nao
+CLI0712,43,Masculino,Casado,13,Padrao,40.75,Boleto,11.8,5,0,1,Nao,Sim,Nao
+CLI0713,54,Feminino,Solteiro,12,Padrao,40.92,Cartao de Credito,0.1,1,3,1,Nao,Sim,Sim
+CLI0714,64,Masculino,Solteiro,14,Padrao,40.14,Debito Automatico,6.6,3,1,1,Nao,Nao,Nao
+CLI0715,31,Masculino,Divorciado,3,Basico,21.28,Debito Automatico,10.0,1,1,1,Nao,Nao,Nao
+CLI0716,16,Masculino,Divorciado,8,Premium,60.60,Pix,8.0,4,2,0,Sim,Nao,Nao
+CLI0717,36,Masculino,Solteiro,42,Basico,27.03,Cartao de Credito,4.4,3,4,0,Nao,Nao,Nao
+CLI0718,19,Feminino,Solteiro,12,Basico,25.71,Boleto,16.9,1,0,1,Nao,Nao,Sim
+CLI0719,39,Feminino,Solteiro,32,Basico,25.08,Debito Automatico,4.4,2,2,0,Nao,Nao,Sim
+CLI0720,16,Feminino,Solteiro,24,Padrao,41.78,Cartao de Credito,0.0,2,1,1,Sim,Nao,Nao
+CLI0721,28,Masculino,Casado,9,Premium,59.13,Debito Automatico,2.4,4,0,1,Nao,Nao,Sim
+CLI0722,38,Masculino,Divorciado,1,Padrao,36.86,Cartao de Credito,6.3,2,0,1,Sim,Sim,Nao
+CLI0723,32,Masculino,Casado,23,Basico,23.27,Debito Automatico,6.8,5,1,0,Sim,Sim,Nao
+CLI0724,41,Masculino,Solteiro,23,Basico,23.72,Cartao de Credito,11.4,4,1,0,Nao,Nao,Nao
+CLI0725,35,Masculino,Solteiro,20,Basico,24.77,Debito Automatico,13.7,3,0,0,Sim,Nao,Nao
+CLI0726,47,Feminino,Solteiro,14,Padrao,40.78,Pix,0.7,6,0,1,Sim,Sim,Nao
+CLI0727,27,Feminino,Divorciado,11,Basico,25.73,Debito Automatico,4.4,4,0,1,Nao,Nao,Sim
+CLI0728,16,Feminino,Solteiro,6,Basico,24.01,Pix,0.0,1,2,0,Nao,Nao,Sim
+CLI0729,37,Masculino,Solteiro,13,Basico,26.47,Debito Automatico,0.0,1,1,1,Nao,Sim,Nao
+CLI0730,17,Masculino,Solteiro,8,Premium,56.71,Cartao de Credito,20.3,5,0,1,Nao,Nao,Nao
+CLI0731,16,Feminino,Solteiro,12,Basico,21.05,Boleto,0.5,6,2,1,Nao,Nao,Nao
+CLI0732,16,Feminino,Solteiro,1,Premium,58.35,Debito Automatico,10.7,6,3,1,Nao,Nao,Sim
+CLI0733,40,Masculino,Casado,8,Padrao,38.51,Cartao de Credito,7.6,3,0,2,Nao,Sim,Sim
+CLI0734,16,Feminino,Divorciado,16,Padrao,37.17,Cartao de Credito,9.7,5,0,0,Sim,Nao,Nao
+CLI0735,34,Feminino,Solteiro,12,Premium,57.44,Cartao de Credito,7.9,6,4,1,Nao,Nao,Sim
+CLI0736,42,Masculino,Casado,24,Basico,26.46,Cartao de Credito,7.7,5,3,1,Nao,Nao,Nao
+CLI0737,24,Masculino,Divorciado,25,Basico,21.45,Cartao de Credito,14.7,3,2,2,Nao,Sim,Nao
+CLI0738,39,Feminino,Casado,20,Premium,60.49,Cartao de Credito,13.2,3,1,1,Sim,Nao,Nao
+CLI0739,41,Masculino,Solteiro,10,Basico,20.81,Cartao de Credito,16.1,1,1,1,Sim,Nao,Nao
+CLI0740,33,Feminino,Casado,25,Basico,22.35,Debito Automatico,14.5,6,3,1,Sim,Sim,Nao
+CLI0741,37,Feminino,Solteiro,4,Basico,21.61,Debito Automatico,17.6,6,0,2,Sim,Sim,Nao
+CLI0742,33,Masculino,Casado,3,Premium,58.54,Debito Automatico,11.3,6,0,1,Sim,Nao,Nao
+CLI0743,47,Masculino,Solteiro,21,Basico,26.13,Cartao de Credito,13.9,5,1,0,Nao,Sim,Nao
+CLI0744,29,Masculino,Solteiro,2,Padrao,44.63,Debito Automatico,12.5,4,0,1,Sim,Nao,Nao
+CLI0745,39,Masculino,Casado,11,Padrao,38.83,Cartao de Credito,3.5,6,2,0,Nao,Nao,Sim
+CLI0746,16,Masculino,Divorciado,8,Premium,59.30,Boleto,17.6,4,0,3,Nao,Nao,Sim
+CLI0747,35,Feminino,Divorciado,3,Basico,23.74,Pix,6.0,1,0,1,Sim,Sim,Nao
+CLI0748,33,Feminino,Divorciado,0,Premium,59.36,Cartao de Credito,16.7,1,3,0,Nao,Sim,Nao
+CLI0749,29,Masculino,Solteiro,1,Basico,26.96,Debito Automatico,12.6,2,1,0,Nao,Sim,Sim
+CLI0750,40,Feminino,Casado,27,Padrao,40.03,Pix,6.1,6,1,0,Nao,Sim,Nao
+CLI0751,17,Masculino,Casado,4,Basico,22.32,Debito Automatico,13.9,1,1,1,Nao,Nao,Sim
+CLI0752,30,Feminino,Casado,17,Premium,60.60,Cartao de Credito,15.1,5,0,2,Nao,Nao,Nao
+CLI0753,47,Feminino,Casado,17,Basico,22.99,Pix,19.3,5,2,2,Nao,Nao,Nao
+CLI0754,31,Masculino,Divorciado,7,Padrao,36.80,Cartao de Credito,0.0,4,1,0,Sim,Nao,Nao
+CLI0755,24,Masculino,Casado,27,Basico,27.05,Cartao de Credito,129.8,2,1,2,Nao,Nao,Sim
+CLI0756,39,Feminino,Solteiro,37,Padrao,40.53,Cartao de Credito,136.6,5,0,0,Sim,Nao,Nao
+CLI0757,27,Feminino,Solteiro,23,Padrao,35.18,Debito Automatico,6.7,6,2,1,Nao,Sim,Nao
+CLI0758,25,Masculino,Casado,4,Basico,27.40,Debito Automatico,126.1,6,0,0,Nao,Nao,Sim
+CLI0759,36,Feminino,Solteiro,17,Padrao,40.93,Cartao de Credito,1.8,1,2,1,Sim,Nao,Sim
+CLI0760,26,Masculino,Solteiro,3,Premium,63.33,Pix,17.2,6,2,2,Nao,Nao,Sim
+CLI0761,37,Masculino,Solteiro,30,Premium,60.39,Boleto,15.7,1,1,2,Nao,Sim,Nao
+CLI0762,16,Feminino,Casado,10,Basico,23.82,Boleto,0.0,6,2,1,Nao,Nao,Sim
+CLI0763,26,Masculino,Divorciado,0,Padrao,41.75,Debito Automatico,5.2,5,2,1,Nao,Nao,Sim
+CLI0764,55,Feminino,Solteiro,26,Basico,25.45,Cartao de Credito,6.4,5,1,1,Nao,Nao,Sim
+CLI0765,27,Masculino,Divorciado,18,Padrao,44.11,Cartao de Credito,4.0,4,1,1,Nao,Nao,Sim
+CLI0766,28,Feminino,Casado,19,Premium,58.89,Boleto,15.4,1,1,1,Sim,Nao,Nao
+CLI0767,26,Feminino,Casado,20,Padrao,40.37,Debito Automatico,0.0,5,0,1,Sim,Sim,Nao
+CLI0768,54,Feminino,Casado,6,Basico,23.03,Debito Automatico,20.3,2,1,2,Sim,Nao,Nao
+CLI0769,22,Masculino,Casado,9,Basico,23.10,Debito Automatico,2.4,1,0,2,Sim,Nao,Nao
+CLI0770,21,Masculino,Solteiro,9,Basico,21.89,Cartao de Credito,8.7,6,1,0,Sim,Nao,Nao
+CLI0771,32,Feminino,Solteiro,7,Basico,20.17,Debito Automatico,14.0,2,0,1,Nao,Nao,Nao
+CLI0772,25,Masculino,Solteiro,19,Premium,60.58,Debito Automatico,23.5,5,3,1,Sim,Nao,Nao
+CLI0773,60,Masculino,Casado,8,Premium,61.89,Pix,9.3,4,5,0,Nao,Nao,Sim
+CLI0774,30,Masculino,Casado,4,Basico,20.98,Cartao de Credito,16.8,3,1,0,Sim,Nao,Nao
+CLI0775,67,Feminino,Divorciado,18,Padrao,41.50,Debito Automatico,7.2,2,4,0,Sim,Nao,Nao
+CLI0776,36,Feminino,Solteiro,15,Padrao,40.89,Cartao de Credito,10.5,3,4,1,Nao,Nao,Sim
+CLI0777,16,Masculino,Casado,8,Basico,23.94,Boleto,7.5,6,1,0,Nao,Nao,Sim
+CLI0778,25,Feminino,Divorciado,11,Padrao,42.86,Pix,11.9,4,1,0,Nao,Nao,Sim
+CLI0779,23,Masculino,Solteiro,14,Basico,24.36,Pix,10.2,3,0,0,Nao,Nao,Nao
+CLI0780,21,Feminino,Casado,27,Basico,21.59,Debito Automatico,5.7,6,3,1,Nao,Sim,Sim
+CLI0781,39,Masculino,Divorciado,22,Basico,23.95,Boleto,1.9,6,1,0,Nao,Nao,Nao
+CLI0782,55,Masculino,Casado,9,Premium,58.44,Debito Automatico,2.8,4,0,3,Nao,Nao,Sim
+CLI0783,20,Masculino,Solteiro,9,Basico,23.92,Boleto,8.4,2,2,1,Sim,Sim,Nao
+CLI0784,26,Masculino,Casado,33,Padrao,39.68,Debito Automatico,13.7,2,1,1,Nao,Nao,Nao
+CLI0785,25,Feminino,Solteiro,14,Basico,26.68,Cartao de Credito,12.7,6,0,1,Nao,Nao,Nao
+CLI0786,32,Feminino,Divorciado,18,Premium,63.37,Boleto,13.4,6,1,0,Sim,Nao,Nao
+CLI0787,36,Masculino,Solteiro,41,Basico,26.03,Debito Automatico,8.0,1,1,2,Nao,Nao,Sim
+CLI0788,35,Masculino,Solteiro,8,Padrao,37.10,Debito Automatico,0.0,3,1,0,Nao,Nao,Sim
+CLI0789,16,Feminino,Casado,27,Premium,58.49,Debito Automatico,4.3,6,0,1,Nao,Sim,Sim
+CLI0790,16,Masculino,Solteiro,3,Premium,59.36,Debito Automatico,9.3,4,1,0,Sim,Nao,Sim
+CLI0791,17,Masculino,Casado,27,Basico,28.47,Cartao de Credito,0.3,3,2,1,Nao,Nao,Nao
+CLI0792,34,Feminino,Casado,16,Basico,27.42,Debito Automatico,10.7,2,1,1,Sim,Nao,Sim
+CLI0793,41,Feminino,Solteiro,14,Basico,29.16,Pix,7.0,4,2,0,Nao,Sim,Sim
+CLI0794,41,Feminino,Solteiro,6,Premium,56.65,Boleto,6.0,5,1,1,Nao,Nao,Nao
+CLI0795,32,Masculino,Casado,9,Basico,24.89,Debito Automatico,6.6,5,1,1,Nao,Sim,Nao
+CLI0796,24,Feminino,Solteiro,20,Basico,26.02,Boleto,8.3,4,0,1,Sim,Nao,Nao
+CLI0797,38,Masculino,Casado,5,Basico,22.44,Debito Automatico,7.4,2,2,2,Nao,Nao,Sim
+CLI0798,32,Masculino,Solteiro,9,Basico,27.93,Pix,19.2,4,0,1,Nao,Nao,Sim
+CLI0799,17,Feminino,Solteiro,2,Premium,61.32,Boleto,12.8,6,1,2,Sim,Nao,Nao
+CLI0800,49,Feminino,Casado,10,Basico,27.24,Debito Automatico,13.6,5,1,0,Sim,Sim,Nao
+CLI0801,50,Masculino,Casado,32,Padrao,41.55,Debito Automatico,2.2,2,2,0,Nao,Sim,Nao
+CLI0802,26,Masculino,Casado,23,Basico,21.82,Pix,2.3,2,1,1,Nao,Sim,Sim
+CLI0803,25,Masculino,Casado,5,Premium,59.99,Pix,6.6,6,0,0,Nao,Nao,Nao
+CLI0804,35,Masculino,Divorciado,19,Premium,58.01,Debito Automatico,19.8,4,1,1,Sim,Nao,Nao
+CLI0805,16,Feminino,Casado,39,Padrao,38.34,Boleto,20.0,5,3,2,Nao,Sim,Nao
+CLI0806,48,Masculino,Divorciado,6,Basico,24.07,Pix,0.3,5,1,0,Sim,Nao,Nao
+CLI0807,44,Masculino,Solteiro,13,Premium,56.73,Cartao de Credito,0.0,6,0,1,Nao,Nao,Nao
+CLI0808,41,Feminino,Solteiro,18,Padrao,38.40,Cartao de Credito,9.4,1,1,1,Sim,Sim,Nao
+CLI0809,16,Masculino,Casado,0,Premium,61.01,Boleto,14.3,3,1,0,Nao,Nao,Sim
+CLI0810,31,Feminino,Solteiro,14,Padrao,38.96,Boleto,7.7,4,2,0,Sim,Nao,Nao
+CLI0811,39,Masculino,Casado,14,Premium,61.52,Cartao de Credito,10.2,5,0,1,Nao,Nao,Sim
+CLI0812,25,Feminino,Solteiro,31,Basico,22.55,Cartao de Credito,8.9,1,1,0,Nao,Nao,Nao
+CLI0813,32,Feminino,Casado,27,Premium,58.42,Cartao de Credito,13.2,2,0,0,Nao,Nao,Nao
+CLI0814,36,Masculino,Casado,0,Padrao,42.46,Cartao de Credito,5.6,1,15,0,Nao,Nao,Sim
+CLI0815,16,Masculino,Divorciado,11,Basico,25.46,Debito Automatico,8.3,4,2,0,Sim,Sim,Sim
+CLI0816,16,Masculino,Casado,32,Basico,25.85,Debito Automatico,5.4,4,0,0,Sim,Sim,Nao
+CLI0817,38,Masculino,Casado,27,Basico,25.79,Cartao de Credito,4.8,6,1,2,Nao,Nao,Sim
+CLI0818,22,Feminino,Solteiro,21,Padrao,40.54,Debito Automatico,0.0,4,0,3,Sim,Sim,Sim
+CLI0819,37,Masculino,Casado,4,Padrao,38.89,Cartao de Credito,1.8,3,4,1,Nao,Nao,Sim
+CLI0820,26,Feminino,Solteiro,18,Basico,23.63,Debito Automatico,0.0,3,1,1,Nao,Nao,Sim
+CLI0821,42,Feminino,Divorciado,10,Padrao,40.44,Pix,0.0,5,0,0,Sim,Nao,Sim
+CLI0822,32,Masculino,Casado,17,Basico,25.07,Boleto,14.7,2,0,1,Nao,Sim,Nao
+CLI0823,37,Feminino,Casado,10,Premium,60.26,Cartao de Credito,14.6,2,0,0,Nao,Sim,Nao
+CLI0824,39,Feminino,Casado,19,Premium,59.90,Cartao de Credito,9.4,3,2,2,Nao,Nao,Sim
+CLI0825,16,Feminino,Casado,12,Premium,62.02,Cartao de Credito,13.5,1,0,0,Nao,Sim,Nao
+CLI0826,39,Feminino,Solteiro,7,Basico,26.65,Debito Automatico,9.6,1,1,3,Sim,Sim,Nao
+CLI0827,39,Masculino,Casado,7,Premium,56.15,Cartao de Credito,8.6,2,1,1,Nao,Sim,Sim
+CLI0828,34,Feminino,Casado,8,Premium,55.50,Boleto,9.8,2,4,0,Nao,Nao,Sim
+CLI0829,38,Masculino,Solteiro,10,Padrao,40.16,Cartao de Credito,16.0,3,0,1,Nao,Nao,Nao
+CLI0830,22,Feminino,Solteiro,13,Padrao,42.48,Cartao de Credito,0.0,1,1,2,Sim,Sim,Sim
+CLI0831,28,Masculino,Divorciado,26,Basico,24.11,Pix,11.3,4,2,1,Sim,Sim,Nao
+CLI0832,25,Masculino,Solteiro,9,Premium,61.51,Boleto,0.0,6,1,0,Sim,Nao,Nao
+CLI0833,18,Masculino,Casado,6,Padrao,39.84,Cartao de Credito,13.5,1,2,2,Nao,Nao,Nao
+CLI0834,40,Feminino,Solteiro,33,Basico,25.76,Cartao de Credito,0.0,3,2,2,Nao,Nao,Sim
+CLI0835,40,Masculino,Solteiro,1,Premium,62.45,Pix,15.0,4,1,2,Nao,Nao,Sim
+CLI0836,26,Feminino,Divorciado,21,Premium,61.37,Debito Automatico,18.8,3,1,1,Nao,Nao,Nao
+CLI0837,41,Masculino,Divorciado,12,Basico,27.78,Cartao de Credito,2.7,1,1,0,Sim,Nao,Sim
+CLI0838,30,Masculino,Solteiro,26,Basico,25.42,Cartao de Credito,10.1,2,2,0,Sim,Sim,Nao
+CLI0839,48,Feminino,Casado,7,Premium,59.19,Boleto,6.2,6,1,1,Nao,Nao,Sim
+CLI0840,23,Feminino,Solteiro,18,Padrao,37.66,Debito Automatico,5.7,3,2,0,Nao,Nao,Sim
+CLI0841,40,Feminino,Divorciado,19,Basico,25.65,Cartao de Credito,8.9,2,1,0,Sim,Nao,Nao
+CLI0842,24,Masculino,Solteiro,19,Basico,25.19,Cartao de Credito,0.0,2,1,2,Nao,Nao,Nao
+CLI0843,37,Masculino,Casado,3,Basico,24.18,Pix,20.5,3,1,1,Sim,Nao,Sim
+CLI0844,38,Masculino,Divorciado,15,Padrao,39.03,Debito Automatico,0.0,5,3,0,Sim,Nao,Nao
+CLI0845,30,Feminino,Solteiro,14,Padrao,41.76,Cartao de Credito,15.5,1,2,1,Sim,Nao,Nao
+CLI0846,18,Masculino,Casado,1,Premium,58.07,Pix,0.0,5,1,0,Nao,Nao,Sim
+CLI0847,16,Masculino,Solteiro,10,Premium,59.04,Pix,5.7,2,1,1,Sim,Nao,Nao
+CLI0848,33,Masculino,Solteiro,16,Basico,23.71,Cartao de Credito,9.5,3,0,3,Sim,Sim,Nao
+CLI0849,27,Masculino,Solteiro,8,Basico,28.78,Boleto,16.2,6,2,2,Nao,Nao,Sim
+CLI0850,44,Masculino,Solteiro,42,Basico,22.64,Cartao de Credito,6.7,2,2,0,Sim,Nao,Nao
+CLI0851,21,Masculino,Divorciado,15,Basico,25.46,Debito Automatico,6.2,2,2,2,Nao,Nao,Sim
+CLI0852,16,Masculino,Casado,13,Padrao,40.33,Debito Automatico,9.6,2,3,2,Nao,Nao,Nao
+CLI0853,37,Masculino,Divorciado,21,Premium,58.85,Debito Automatico,10.4,3,1,0,Nao,Nao,Nao
+CLI0854,30,Feminino,Divorciado,19,Padrao,39.55,Cartao de Credito,6.3,1,1,1,Nao,Sim,Nao
+CLI0855,35,Feminino,Solteiro,37,Basico,25.28,Cartao de Credito,3.5,3,1,1,Sim,Nao,Nao
+CLI0856,22,Masculino,Casado,14,Padrao,38.20,Cartao de Credito,12.9,5,1,2,Sim,Nao,Nao
+CLI0857,26,Masculino,Solteiro,16,Padrao,37.93,Cartao de Credito,6.4,2,2,1,Nao,Nao,Nao
+CLI0858,53,Feminino,Solteiro,29,Basico,26.61,Boleto,7.2,4,1,1,Nao,Nao,Sim
+CLI0859,35,Feminino,Casado,5,Premium,55.51,Debito Automatico,9.6,6,1,1,Sim,Nao,Sim
+CLI0860,35,Masculino,Casado,32,Padrao,41.14,Boleto,9.0,5,0,1,Nao,Nao,Sim
+CLI0861,39,Masculino,Casado,5,Basico,24.06,Pix,8.8,1,1,0,Nao,Sim,Sim
+CLI0862,21,Masculino,Casado,11,Padrao,41.34,Debito Automatico,7.8,6,2,1,Nao,Nao,Nao
+CLI0863,27,Masculino,Divorciado,6,Basico,26.19,Cartao de Credito,2.8,4,0,0,Nao,Sim,Sim
+CLI0864,41,Feminino,Casado,12,Basico,23.63,Debito Automatico,8.6,1,1,1,Sim,Sim,Nao
+CLI0865,37,Feminino,Casado,11,Premium,56.91,Boleto,12.1,2,1,1,Nao,Nao,Sim
+CLI0866,32,Feminino,Solteiro,1,Padrao,40.42,Cartao de Credito,4.1,6,1,1,Nao,Sim,Sim
+CLI0867,28,Feminino,Casado,12,Padrao,45.40,Boleto,7.5,5,0,0,Nao,Sim,Nao
+CLI0868,39,Feminino,Casado,4,Basico,23.60,Debito Automatico,12.9,6,1,1,Sim,Nao,Nao
+CLI0869,42,Masculino,Solteiro,19,Basico,27.42,Debito Automatico,2.3,3,1,2,Sim,Nao,Nao
+CLI0870,30,Masculino,Divorciado,35,Basico,26.73,Debito Automatico,7.0,6,2,2,Nao,Sim,Nao
+CLI0871,39,Masculino,Solteiro,26,Basico,23.93,Debito Automatico,8.4,4,1,1,Sim,Sim,Nao
+CLI0872,36,Feminino,Casado,0,Padrao,39.57,Cartao de Credito,9.9,4,1,1,Sim,Sim,Nao
+CLI0873,16,Feminino,Solteiro,3,Basico,25.78,Cartao de Credito,8.8,4,0,1,Nao,Nao,Sim
+CLI0874,26,Masculino,Solteiro,20,Premium,57.55,Debito Automatico,17.5,4,0,0,Sim,Nao,Nao
+CLI0875,33,Masculino,Solteiro,13,Padrao,36.51,Cartao de Credito,8.0,6,3,1,Sim,Nao,Nao
+CLI0876,46,Masculino,Divorciado,16,Padrao,39.90,Pix,11.2,3,3,2,Sim,Nao,Nao
+CLI0877,16,Masculino,Solteiro,9,Basico,25.49,Cartao de Credito,3.4,6,2,0,Sim,Nao,Nao
+CLI0878,48,Masculino,Divorciado,8,Padrao,37.22,Cartao de Credito,7.4,1,0,1,Nao,Nao,Nao
+CLI0879,43,Masculino,Casado,14,Padrao,39.02,Boleto,9.7,2,1,1,Sim,Nao,Nao
+CLI0880,28,Feminino,Solteiro,3,Padrao,38.16,Cartao de Credito,0.0,6,3,0,Sim,Sim,Sim
+CLI0881,16,Feminino,Casado,36,Premium,58.73,Boleto,13.8,3,1,0,Sim,Nao,Sim
+CLI0882,22,Feminino,Solteiro,24,Basico,27.16,Cartao de Credito,18.4,2,0,2,Sim,Sim,Nao
+CLI0883,33,Masculino,Casado,26,Premium,59.61,Cartao de Credito,12.9,2,0,4,Nao,Nao,Sim
+CLI0884,33,Feminino,Solteiro,20,Basico,25.87,Boleto,21.3,6,3,0,Nao,Sim,Nao
+CLI0885,33,Feminino,Casado,6,Basico,25.85,Boleto,5.6,6,4,0,Nao,Nao,Nao
+CLI0886,45,Masculino,Casado,10,Padrao,155.97,Debito Automatico,7.8,3,1,1,Sim,Sim,Nao
+CLI0887,16,Feminino,Solteiro,22,Padrao,43.09,Debito Automatico,1.4,6,0,0,Sim,Sim,Nao
+CLI0888,21,Feminino,Solteiro,2,Basico,24.34,Debito Automatico,12.0,6,2,0,Nao,Nao,Sim
+CLI0889,37,Feminino,Casado,0,Premium,59.65,Boleto,10.6,1,2,0,Nao,Nao,Sim
+CLI0890,33,Masculino,Casado,8,Padrao,38.11,Pix,20.6,3,2,0,Sim,Sim,Sim
+CLI0891,20,Feminino,Solteiro,7,Basico,23.63,Pix,2.8,4,1,1,Nao,Sim,Sim
+CLI0892,38,Feminino,Casado,6,Padrao,38.50,Debito Automatico,3.7,3,2,0,Nao,Sim,Nao
+CLI0893,31,Masculino,Solteiro,6,Padrao,42.36,Boleto,0.0,5,3,0,Nao,Sim,Sim
+CLI0894,42,Feminino,Casado,14,Premium,59.31,Debito Automatico,16.5,6,0,1,Nao,Nao,Nao
+CLI0895,38,Masculino,Casado,3,Padrao,39.47,Cartao de Credito,11.3,5,1,0,Sim,Nao,Nao
+CLI0896,33,Masculino,Casado,6,Basico,27.43,Pix,7.2,1,0,1,Sim,Nao,Nao
+CLI0897,16,Masculino,Casado,36,Basico,24.58,Debito Automatico,8.0,2,0,1,Nao,Nao,Sim
+CLI0898,28,Feminino,Casado,30,Padrao,41.12,Debito Automatico,6.1,6,0,3,Nao,Sim,Nao
+CLI0899,29,Feminino,Solteiro,17,Basico,24.33,Cartao de Credito,14.3,1,3,1,Nao,Sim,Sim
+CLI0900,18,Feminino,Casado,12,Basico,25.14,Cartao de Credito,120.3,3,4,0,Sim,Sim,Nao
+CLI0901,37,Feminino,Solteiro,22,Basico,23.35,Pix,3.8,3,2,1,Nao,Nao,Nao
+CLI0902,47,Feminino,Solteiro,4,Padrao,38.74,Boleto,9.5,1,3,1,Nao,Sim,Nao
+CLI0903,16,Feminino,Casado,4,Padrao,41.03,Boleto,12.3,2,3,0,Sim,Sim,Sim
+CLI0904,44,Masculino,Casado,3,Padrao,37.66,Boleto,10.0,3,1,2,Nao,Sim,Sim
+CLI0905,40,Masculino,Casado,28,Premium,62.96,Debito Automatico,3.1,1,0,2,Sim,Nao,Sim
+CLI0906,23,Feminino,Casado,9,Premium,59.61,Cartao de Credito,12.6,2,3,2,Sim,Nao,Sim
+CLI0907,30,Masculino,Casado,9,Basico,23.01,Debito Automatico,10.5,5,1,3,Nao,Nao,Nao
+CLI0908,20,Masculino,Casado,17,Padrao,37.63,Boleto,8.8,1,1,1,Sim,Nao,Nao
+CLI0909,31,Feminino,Solteiro,25,Padrao,40.35,Boleto,9.0,1,0,0,Nao,Nao,Nao
+CLI0910,30,Feminino,Solteiro,3,Padrao,36.72,Debito Automatico,1.6,1,1,1,Nao,Nao,Nao
+CLI0911,28,Feminino,Divorciado,5,Basico,21.33,Debito Automatico,6.0,6,0,1,Nao,Sim,Nao
+CLI0912,38,Masculino,Casado,6,Basico,27.64,Debito Automatico,8.5,2,0,1,Sim,Sim,Nao
+CLI0913,27,Masculino,Casado,17,Basico,28.30,Cartao de Credito,2.6,2,1,1,Nao,Sim,Sim
+CLI0914,23,Feminino,Solteiro,37,Basico,22.86,Debito Automatico,4.8,3,1,0,Nao,Nao,Nao
+CLI0915,22,Feminino,Divorciado,27,Padrao,37.35,Cartao de Credito,10.1,1,2,4,Sim,Nao,Sim
+CLI0916,27,Feminino,Divorciado,9,Basico,24.94,Boleto,11.8,1,1,4,Sim,Nao,Nao
+CLI0917,38,Masculino,Divorciado,13,Basico,27.01,Debito Automatico,4.3,1,1,1,Nao,Nao,Sim
+CLI0918,21,Feminino,Solteiro,7,Basico,25.37,Cartao de Credito,20.6,5,0,0,Nao,Sim,Nao
+CLI0919,33,Masculino,Solteiro,10,Padrao,39.63,Pix,11.3,5,0,0,Nao,Nao,Nao
+CLI0920,16,Feminino,Solteiro,3,Basico,23.26,Boleto,12.8,6,1,0,Sim,Nao,Nao
+CLI0921,76,Masculino,Solteiro,0,Padrao,40.81,Cartao de Credito,5.0,1,1,1,Nao,Nao,Nao
+CLI0922,30,Masculino,Solteiro,32,Padrao,39.33,Cartao de Credito,4.4,3,2,0,Nao,Sim,Nao
+CLI0923,27,Feminino,Casado,13,Premium,58.96,Cartao de Credito,12.9,3,3,1,Nao,Nao,Sim
+CLI0924,22,Masculino,Solteiro,3,Basico,23.59,Cartao de Credito,6.4,3,1,1,Nao,Nao,Nao
+CLI0925,38,Feminino,Solteiro,38,Premium,62.60,Cartao de Credito,14.6,6,1,1,Sim,Nao,Nao
+CLI0926,27,Feminino,Solteiro,41,Padrao,39.24,Debito Automatico,120.9,5,3,1,Nao,Nao,Nao
+CLI0927,20,Feminino,Casado,13,Premium,58.01,Debito Automatico,14.9,4,2,1,Nao,Sim,Sim
+CLI0928,21,Masculino,Solteiro,14,Padrao,153.02,Boleto,11.8,2,2,1,Sim,Sim,Nao
+CLI0929,37,Feminino,Solteiro,21,Premium,60.09,Debito Automatico,5.8,5,3,0,Nao,Sim,Sim
+CLI0930,35,Feminino,Casado,5,Basico,26.46,Cartao de Credito,6.4,1,0,2,Nao,Sim,Sim
+CLI0931,46,Masculino,Casado,38,Basico,21.53,Cartao de Credito,131.1,2,0,0,Nao,Nao,Sim
+CLI0932,20,Feminino,Casado,4,Padrao,36.86,Boleto,6.3,4,3,0,Nao,Nao,Nao
+CLI0933,26,Masculino,Solteiro,10,Padrao,38.39,Debito Automatico,0.7,5,1,0,Sim,Sim,Nao
+CLI0934,38,Feminino,Casado,8,Basico,26.27,Boleto,1.1,2,1,0,Nao,Nao,Nao
+CLI0935,20,Feminino,Casado,23,Basico,25.14,Cartao de Credito,5.1,2,1,3,Nao,Nao,Sim
+CLI0936,16,Feminino,Solteiro,11,Padrao,37.65,Debito Automatico,0.0,3,1,0,Nao,Nao,Nao
+CLI0937,30,Feminino,Solteiro,16,Padrao,38.92,Debito Automatico,1.1,2,4,1,Nao,Sim,Sim
+CLI0938,29,Feminino,Casado,11,Padrao,39.89,Boleto,11.7,4,3,1,Nao,Sim,Nao
+CLI0939,16,Feminino,Casado,21,Padrao,42.82,Pix,5.0,2,1,1,Sim,Sim,Nao
+CLI0940,47,Feminino,Solteiro,26,Padrao,40.82,Cartao de Credito,6.0,5,3,0,Nao,Nao,Nao
+CLI0941,33,Masculino,Solteiro,6,Premium,60.46,Cartao de Credito,17.1,6,0,0,Sim,Nao,Nao
+CLI0942,16,Feminino,Divorciado,17,Premium,58.40,Cartao de Credito,10.5,2,2,1,Nao,Nao,Nao
+CLI0943,45,Feminino,Casado,7,Basico,27.53,Boleto,9.2,3,1,0,Nao,Nao,Nao
+CLI0944,16,Feminino,Casado,2,Padrao,35.17,Debito Automatico,5.4,3,1,1,Nao,Nao,Sim
+CLI0945,35,Feminino,Casado,1,Padrao,41.53,Boleto,14.5,4,1,0,Nao,Sim,Sim
+CLI0946,40,Masculino,Casado,6,Basico,26.18,Boleto,10.6,3,1,3,Sim,Nao,Nao
+CLI0947,20,Masculino,Casado,2,Padrao,40.25,Debito Automatico,5.9,4,0,1,Sim,Sim,Sim
+CLI0948,29,Masculino,Solteiro,6,Padrao,40.48,Pix,10.2,3,0,2,Nao,Nao,Nao
+CLI0949,38,Masculino,Casado,9,Premium,58.64,Debito Automatico,3.3,6,2,0,Sim,Sim,Nao
+CLI0950,28,Feminino,Casado,12,Basico,23.34,Cartao de Credito,14.8,6,1,1,Nao,Nao,Sim
+CLI0951,38,Feminino,Solteiro,21,Premium,59.79,Cartao de Credito,11.3,4,1,1,Sim,Nao,Sim
+CLI0952,51,Masculino,Casado,1,Padrao,40.23,Cartao de Credito,13.4,5,0,1,Nao,Nao,Sim
+CLI0953,35,Feminino,Solteiro,2,Premium,59.46,Boleto,13.6,1,2,2,Sim,Nao,Sim
+CLI0954,23,Masculino,Casado,9,Basico,25.89,Boleto,6.2,1,1,1,Nao,Nao,Nao
+CLI0955,31,Feminino,Solteiro,3,Padrao,36.75,Boleto,0.4,2,1,3,Nao,Nao,Sim
+CLI0956,24,Masculino,Casado,11,Padrao,41.12,Pix,8.3,2,2,2,Nao,Nao,Nao
+CLI0957,27,Masculino,Divorciado,7,Padrao,37.88,Debito Automatico,6.3,3,1,1,Nao,Sim,Sim
+CLI0958,23,Feminino,Casado,9,Premium,59.64,Boleto,8.2,5,2,2,Sim,Sim,Nao
+CLI0959,41,Masculino,Divorciado,29,Basico,30.15,Pix,9.1,2,1,1,Nao,Sim,Nao
+CLI0960,29,Masculino,Solteiro,5,Basico,25.58,Cartao de Credito,0.0,3,1,0,Sim,Nao,Sim
+CLI0961,16,Feminino,Casado,0,Premium,57.99,Debito Automatico,13.7,1,2,1,Nao,Sim,Nao
+CLI0962,16,Feminino,Divorciado,8,Padrao,42.26,Pix,4.1,3,1,1,Nao,Nao,Sim
+CLI0963,16,Masculino,Casado,6,Basico,26.49,Boleto,10.1,2,2,1,Nao,Nao,Nao
+CLI0964,34,Masculino,Divorciado,1,Padrao,37.53,Cartao de Credito,10.6,3,1,1,Nao,Nao,Sim
+CLI0965,16,Feminino,Divorciado,17,Premium,58.23,Cartao de Credito,12.4,5,0,1,Nao,Nao,Sim
+CLI0966,36,Feminino,Solteiro,22,Padrao,39.40,Debito Automatico,12.9,1,0,1,Nao,Sim,Nao
+CLI0967,32,Masculino,Solteiro,12,Padrao,40.92,Cartao de Credito,18.6,1,3,1,Nao,Sim,Nao
+CLI0968,24,Masculino,Solteiro,3,Basico,24.61,Cartao de Credito,0.9,1,1,1,Sim,Nao,Sim
+CLI0969,64,Masculino,Solteiro,22,Padrao,37.90,Debito Automatico,0.6,3,2,1,Sim,Nao,Nao
+CLI0970,16,Masculino,Casado,20,Premium,60.26,Cartao de Credito,16.2,4,0,1,Nao,Nao,Nao
+CLI0971,36,Masculino,Casado,9,Basico,27.57,Debito Automatico,14.9,2,0,2,Nao,Sim,Sim
+CLI0972,30,Masculino,Casado,16,Basico,24.56,Debito Automatico,11.8,3,1,1,Nao,Nao,Nao
+CLI0973,43,Masculino,Solteiro,3,Padrao,35.53,Cartao de Credito,21.4,2,3,0,Nao,Sim,Nao
+CLI0974,39,Feminino,Casado,23,Basico,19.73,Pix,10.2,4,1,2,Nao,Sim,Nao
+CLI0975,24,Masculino,Solteiro,1,Padrao,38.56,Debito Automatico,2.1,5,2,1,Nao,Nao,Sim
+CLI0976,34,Feminino,Solteiro,13,Padrao,192.38,Debito Automatico,16.5,1,3,0,Nao,Nao,Sim
+CLI0977,21,Masculino,Solteiro,4,Padrao,41.41,Cartao de Credito,13.4,4,0,1,Nao,Nao,Nao
+CLI0978,19,Feminino,Solteiro,16,Basico,28.48,Cartao de Credito,4.0,5,2,1,Sim,Nao,Sim
+CLI0979,18,Masculino,Casado,7,Padrao,42.28,Pix,1.9,1,1,0,Nao,Nao,Nao
+CLI0980,35,Masculino,Divorciado,6,Padrao,43.21,Boleto,5.0,3,1,3,Nao,Nao,Sim
+CLI0981,22,Masculino,Solteiro,17,Padrao,40.78,Boleto,17.0,6,2,2,Sim,Nao,Nao
+CLI0982,40,Masculino,Divorciado,3,Basico,27.69,Boleto,2.3,3,1,1,Nao,Nao,Sim
+CLI0983,53,Masculino,Solteiro,7,Padrao,35.79,Cartao de Credito,15.4,6,3,1,Sim,Nao,Sim
+CLI0984,20,Masculino,Solteiro,35,Padrao,37.71,Cartao de Credito,4.2,5,1,0,Nao,Nao,Sim
+CLI0985,35,Masculino,Divorciado,26,Padrao,37.71,Debito Automatico,4.4,6,1,1,Nao,Sim,Nao
+CLI0986,24,Feminino,Casado,27,Padrao,43.76,Debito Automatico,10.0,1,1,1,Nao,Nao,Nao
+CLI0987,34,Feminino,Solteiro,10,Padrao,38.48,Boleto,0.3,6,0,1,Sim,Nao,Nao
+CLI0988,30,Masculino,Solteiro,23,Padrao,40.61,Debito Automatico,1.3,2,1,0,Sim,Sim,Nao
+CLI0989,40,Feminino,Solteiro,8,Basico,24.50,Debito Automatico,3.1,4,2,2,Nao,Nao,Sim
+CLI0990,35,Feminino,Solteiro,14,Premium,62.71,Boleto,4.0,5,1,2,Nao,Nao,Nao
+CLI0991,33,Feminino,Casado,7,Premium,57.51,Boleto,16.8,3,0,1,Nao,Nao,Sim
+CLI0992,34,Masculino,Solteiro,11,Padrao,38.73,Boleto,0.0,3,3,0,Nao,Sim,Nao
+CLI0993,34,Feminino,Casado,15,Premium,59.30,Debito Automatico,9.6,2,2,1,Nao,Nao,Nao
+CLI0994,29,Masculino,Solteiro,8,Padrao,41.67,Cartao de Credito,5.3,3,3,1,Nao,Nao,Nao
+CLI0995,35,Masculino,Solteiro,6,Basico,23.80,Boleto,12.7,6,0,1,Nao,Nao,Nao
+CLI0996,27,Feminino,Casado,21,Premium,57.21,Cartao de Credito,1.4,6,1,1,Sim,Sim,Nao
+CLI0997,34,Feminino,Solteiro,4,Padrao,40.89,Cartao de Credito,7.7,6,2,1,Nao,Nao,Nao
+CLI0998,22,Masculino,Solteiro,16,Padrao,37.08,Boleto,0.0,4,3,0,Sim,Nao,Sim
+CLI0999,36,Masculino,Casado,0,Premium,57.35,Boleto,136.0,6,1,0,Nao,Nao,Nao
+CLI1000,29,Masculino,Solteiro,4,Padrao,41.31,Cartao de Credito,15.9,4,1,0,Sim,Nao,Nao
